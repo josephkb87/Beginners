@@ -1,3 +1,5 @@
+## This will test all three release channels (note a failure in any toolchain version will fail the entire job).
+
 name: Cargo Build & Test
 
 on:

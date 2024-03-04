@@ -1,0 +1,7 @@
+#   'safe': The library satisfies the rule-of-2 and can be used in any process.
+#   'sandbox': The library does not satisfy the rule-of-2 and must be used in
+#              a sandboxed process such as the renderer or a utility process.
+#   'test': The library is only used in tests.
+
+[crate.my-new-crate]
+group = 'test' # only used in test code
