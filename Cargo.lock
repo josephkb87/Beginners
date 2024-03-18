@@ -6,8 +6,69 @@ version = 3
 name = "Beginners"
 version = "0.1.0"
 dependencies = [
- "regex 1.10.3 (git+https://github.com/rust-lang/regex.git)",
+ "actix",
+ "regex 1.5.0",
  "trunk",
+]
+
+[[package]]
+name = "Rust_WASM"
+version = "0.1.0"
+
+[[package]]
+name = "actix"
+version = "0.13.3"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "fb72882332b6d6282f428b77ba0358cb2687e61a6f6df6a6d3871e8a177c2d4f"
+dependencies = [
+ "actix-macros",
+ "actix-rt",
+ "actix_derive",
+ "bitflags 2.4.2",
+ "bytes",
+ "crossbeam-channel",
+ "futures-core",
+ "futures-sink",
+ "futures-task",
+ "futures-util",
+ "log",
+ "once_cell",
+ "parking_lot",
+ "pin-project-lite",
+ "smallvec",
+ "tokio",
+ "tokio-util",
+]
+
+[[package]]
+name = "actix-macros"
+version = "0.2.4"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "e01ed3140b2f8d422c68afa1ed2e85d996ea619c988ac834d255db32138655cb"
+dependencies = [
+ "quote",
+ "syn 2.0.53",
+]
+
+[[package]]
+name = "actix-rt"
+version = "2.9.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "28f32d40287d3f402ae0028a9d54bef51af15c8769492826a69d28f81893151d"
+dependencies = [
+ "futures-core",
+ "tokio",
+]
+
+[[package]]
+name = "actix_derive"
+version = "0.6.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "7c7db3d5a9718568e4cf4a537cfd7070e6e6ff7481510d0237fb529ac850f6d3"
+dependencies = [
+ "proc-macro2",
+ "quote",
+ "syn 2.0.53",
 ]
 
 [[package]]
@@ -2439,25 +2500,24 @@ dependencies = [
 
 [[package]]
 name = "regex"
+version = "1.5.0"
+source = "git+https://github.com/rust-lang/regex.git?rev=9f9f693#9f9f693768c584971a4d53bc3c586c33ed3a6831"
+dependencies = [
+ "aho-corasick 0.7.20",
+ "memchr",
+ "regex-syntax 0.6.24",
+]
+
+[[package]]
+name = "regex"
 version = "1.10.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "b62dbe01f0b06f9d8dc7d49e05a0785f153b00b2c227856282f671e0318c9b15"
 dependencies = [
  "aho-corasick 1.1.2",
  "memchr",
- "regex-automata 0.4.6 (registry+https://github.com/rust-lang/crates.io-index)",
- "regex-syntax 0.8.2 (registry+https://github.com/rust-lang/crates.io-index)",
-]
-
-[[package]]
-name = "regex"
-version = "1.10.3"
-source = "git+https://github.com/rust-lang/regex.git#a5ae35153a6ec61e64cb297155f7d91c11b629c7"
-dependencies = [
- "aho-corasick 1.1.2",
- "memchr",
- "regex-automata 0.4.6 (git+https://github.com/rust-lang/regex.git)",
- "regex-syntax 0.8.2 (git+https://github.com/rust-lang/regex.git)",
+ "regex-automata 0.4.6",
+ "regex-syntax 0.8.2",
 ]
 
 [[package]]
@@ -2477,18 +2537,13 @@ checksum = "86b83b8b9847f9bf95ef68afb0b8e6cdb80f498442f5179a29fad448fcc1eaea"
 dependencies = [
  "aho-corasick 1.1.2",
  "memchr",
- "regex-syntax 0.8.2 (registry+https://github.com/rust-lang/crates.io-index)",
+ "regex-syntax 0.8.2",
 ]
 
 [[package]]
-name = "regex-automata"
-version = "0.4.6"
-source = "git+https://github.com/rust-lang/regex.git#a5ae35153a6ec61e64cb297155f7d91c11b629c7"
-dependencies = [
- "aho-corasick 1.1.2",
- "memchr",
- "regex-syntax 0.8.2 (git+https://github.com/rust-lang/regex.git)",
-]
+name = "regex-syntax"
+version = "0.6.24"
+source = "git+https://github.com/rust-lang/regex.git?rev=9f9f693#9f9f693768c584971a4d53bc3c586c33ed3a6831"
 
 [[package]]
 name = "regex-syntax"
@@ -2501,11 +2556,6 @@ name = "regex-syntax"
 version = "0.8.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "c08c74e62047bb2de4ff487b251e4a92e24f48745648451635cec7d591162d9f"
-
-[[package]]
-name = "regex-syntax"
-version = "0.8.2"
-source = "git+https://github.com/rust-lang/regex.git#a5ae35153a6ec61e64cb297155f7d91c11b629c7"
 
 [[package]]
 name = "remove_dir_all"
@@ -3481,7 +3531,7 @@ dependencies = [
  "matchers",
  "nu-ansi-term",
  "once_cell",
- "regex 1.10.3 (registry+https://github.com/rust-lang/crates.io-index)",
+ "regex 1.10.3",
  "sharded-slab",
  "smallvec",
  "thread_local",
