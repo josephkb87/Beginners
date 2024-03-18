@@ -1,9 +1,11 @@
+workspace = { members = ["Projects/RustWebApp/Rust_WASM"] }
 [package]
 name = "Beginners"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 
 
 [dependencies]
-regex = { git = "https://github.com/rust-lang/regex.git"}
+regex = { git = "https://github.com/rust-lang/regex.git", rev = "9f9f693" }
 trunk = "0.19.1"
+actix = { version = "0.13.3" }
