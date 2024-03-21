@@ -6,6 +6,6 @@ edition = "2021"
 
 
 [dependencies]
-regex = { git = "https://github.com/rust-lang/regex.git", rev = "9f9f693" }
+regex = { git = "https://github.com/rust-lang/regex.git" }
 trunk = "0.19.1"
 actix = { version = "0.13.3" }
