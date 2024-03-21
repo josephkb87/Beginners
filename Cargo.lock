@@ -7,7 +7,7 @@ name = "Beginners"
 version = "0.1.0"
 dependencies = [
  "actix",
- "regex 1.5.0",
+ "regex 1.5.5",
  "trunk",
 ]
 
