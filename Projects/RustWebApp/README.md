@@ -1,10 +1,13 @@
-## RustWebApp
-In this project, we Build a desktop application using Qt and Rust.
+# We will Create a cross-platform desktop app
 
-#### About Qt 
-Qt is (a mature, battle-tested framework for cross-platform development) 
+## We will Create our desktop app using Rust, SolidJS, and Tauri.
 
-#### About Rust
-Rust is one of the more popular. Rust is widely regarded as being reliable, performant, productive, and versatile.
+### Tauri
+Tauri offers the ability to design your UI using web technologies like HTML, CSS, and JavaScript but allows you to use lower-level languages to write the application and backend logic.
+Tauri primarily supports Rust as the backend language, but its API can be implemented across multiple languages
 
+### Rust
+Rust as the backend language
+
+### SolidJS
 
