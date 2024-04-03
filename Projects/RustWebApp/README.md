@@ -7,8 +7,7 @@ Tauri offers the ability to design your UI using web technologies like HTML, CSS
 Tauri primarily supports Rust as the backend language, but its API can be implemented across multiple languages
 
 ### Rust
-Rust as the backend language
+Rust as the backend:
 
 ### SolidJS
-
 
