@@ -1,0 +1,20 @@
+// package.json file
+{
+"name": "Rust_WASM",
+"description": "",
+"version": "1.0.0",
+"scripts": {
+"test": "echo \"Error: no test specified\" && exit 1"
+},
+"repository": {
+"type": "git",
+"url": "https://github.com/josephkb87/Beginners/Rust_WASM/.git"
+},
+"keywords": [],
+"author": "KIYINI JOSEPH BALAMAZZE",
+"license": "ISC",
+"bugs": {
+"url": "https://github.com/josephkb87/Beginners/Rust_WASM/issues"
+},
+"homepage": "https://github.com/josephkb87/Beginners/Rust_WASM"
+}
