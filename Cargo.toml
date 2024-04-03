@@ -1,11 +1,16 @@
+// cargo.toml file
 workspace = { members = [ "Projects/QMLAppl/qtrustapp", "Projects/RustAPI/restful-rustapi","Projects/RustWebApp/Rust_WASM"] }
 [package]
 name = "Beginners"
 version = "0.1.0"
 edition = "2021"
+authors = ["Kiyini Joseph Balamazze"]
 
 
 [dependencies]
 regex = { git = "https://github.com/rust-lang/regex.git" }
 trunk = "0.19.1"
 actix = { version = "0.13.3" }
+chrono = "0.4"
+futures = "0.3"
+atk = "^0"
