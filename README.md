@@ -410,6 +410,7 @@ Beginners, covers Rust Beginners Basics.
 >>>>>>> ad62b0a (Update README.md)
 =======
 * [References](.
+<<<<<<< HEAD
 >>>>>>> b71e4af (Create README.md)
 =======
 =======
@@ -456,3 +457,24 @@ Beginners, covers Rust Beginners Basics.
 
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 >>>>>>> d0f3556 (Chore:Rebase master)
+=======
+>>>>>>> 1241d71 (Create README.md)
+<<<<<<< HEAD
+>>>>>>> 32e7210 (Create README.md)
+=======
+=======
+## Beginners 
+
+In this Beginners repository, we cover Rust Beginners Basics.
+
+#### Projects
+
+** QMLApp - A QT Rust App 
+** RustAPI -A RESTful RustAPI
+** RustWebApp -A Rust_WASM WebApp 
+
+  
+[Contribute](..docs/Contributing.md) [CHANGELOG](..docs/CHANGELOG.md). 
+>>>>>>> 4e93fa6 (Create README.md)
+>>>>>>> 700ca3d (Create README.md)
+>>>>>>> 99fde6c (Create README.md)
