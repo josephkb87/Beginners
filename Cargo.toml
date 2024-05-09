@@ -10,15 +10,8 @@ regex = { git = "https://github.com/rust-lang/regex.git" }
 trunk = "0.20.3"
 actix = { version = "0.13.3" }
 chrono = "0.4"
-<<<<<<< HEAD
 atk = "0.18.0" 
-=======
 futures = "0.3"
-<<<<<<< HEAD
 atk = ">= 0.1.0" 
->>>>>>> a0cf675 (Update Cargo.toml)
-=======
-atk = "0.18.0" 
->>>>>>> e0ee37d (Update cargo.toml)
 atk-sys = ">= 0.18.0" 
 cxx-qt = "0.6.1"
