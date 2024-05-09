@@ -153,6 +153,6 @@ _Documentation_
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
+<<<<<<< HEAD
 * [References](.
 >>>>>>> 7fc148c (Chore Rebase josephkb87-patch-5 develop)
->>>>>>> 3f33c37 (Chore:Update Cargo)
