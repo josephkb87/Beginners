@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
@@ -182,3 +183,17 @@ Beginners, covers Rust Beginners Basics.
 =======
 * [References](.
 >>>>>>> 1241d71 (Create README.md)
+=======
+## Beginners 
+
+In this Beginners repository, we cover Rust Beginners Basics.
+
+#### Projects
+
+** QMLApp - A QT Rust App 
+** RustAPI -A RESTful RustAPI
+** RustWebApp -A Rust_WASM WebApp 
+
+  
+[Contribute](..docs/Contributing.md) [CHANGELOG](..docs/CHANGELOG.md). 
+>>>>>>> 4e93fa6 (Create README.md)
