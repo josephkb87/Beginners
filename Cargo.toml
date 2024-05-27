@@ -1,5 +1,3 @@
-// cargo.toml file
-workspace = { members = [ "Projects/QMLAppl/qtrustapp", "Projects/RustAPI/restful-rustapi","Projects/RustWebApp/Rust_WASM"] }
 [package]
 name = "Beginners"
 version = "0.1.0"
