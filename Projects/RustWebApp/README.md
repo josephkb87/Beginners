@@ -10,4 +10,4 @@ Tauri primarily supports Rust as the backend language, but its API can be implem
 Rust as the backend:
 
 ### SolidJS
-
+a meta-framework that provides the platform to put all of these pieces together in a one location
