@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 2b9416e (Chore:Resolve Merge Conflicts)
 =======
@@ -155,6 +156,8 @@ _Documentation_
 ---
 [Contribute](..docs/Contributing.md). [CHANGELOG](..docs/CHANGELOG.md). [Docs](..docs/)
 >>>>>>> f2dd493 (Develop (#1))
+=======
+>>>>>>> d0c4f92 (Create README.md)
 # Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
@@ -200,6 +203,7 @@ _Documentation_
 =======
 ## Beginners 
 
+<<<<<<< HEAD
 Beginners, covers Rust Beginners Basics.
 
 ---
@@ -362,3 +366,23 @@ Beginners, covers Rust Beginners Basics.
 [Contribute](..docs/Contributing.md). [CHANGELOG](..docs/CHANGELOG.md). [Docs](..docs/)
 
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
+=======
+=======
+# Rust Beginners Basics.
+Rust Beginners Basics.
+
+## What?
+This Rust Beginners covers Rust Beginners Basics.
+
+## Why?
+- Helps Us Understanding Things Like [Rust vs C++ and Why?](#)
+
+## Who?
+Programmers Students Software Engineers Coders interested in Rust and other languages.
+
+## When & How?
+Beginning Programming languages.Applies to programming language design fundamentals.
+
+
+>>>>>>> a733709 (Create README.md)
+>>>>>>> d0c4f92 (Create README.md)
