@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
@@ -41,3 +42,21 @@ _Documentation_
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md   )
 
+=======
+# Rust Beginners Basics.
+Rust Beginners Basics.
+
+## What?
+This Rust Beginners covers Rust Beginners Basics.
+
+## Why?
+- Helps Us Understanding Things Like [Rust vs C++ and Why?](#)
+
+## Who?
+Programmers Students Software Engineers Coders interested in Rust and other languages.
+
+## When & How?
+Beginning Programming languages.Applies to programming language design fundamentals.
+
+
+>>>>>>> a733709 (Create README.md)
