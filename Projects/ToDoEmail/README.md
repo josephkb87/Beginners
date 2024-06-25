@@ -189,7 +189,16 @@ _Docs_
 >>>>>>> 4801d3a (Chore:Rebase master)
 TO DO EMAIL App
 
+<<<<<<< HEAD
 What?
+=======
+<<<<<<< HEAD
+W
+Xhat?
+=======
+What?
+>>>>>>> 818d650 (Add files via upload)
+>>>>>>> a9f995b (Add files via upload)
 We create a TO DO App that sends the to do list to an email.
 
 Why?
@@ -232,7 +241,11 @@ How?
 1. **Create the main logic in `src/main.rs`**:
 
 
+<<<<<<< HEAD
 >>>>>>> 2938dda (Update Projects:ToDoEmailApp)
+=======
+>>>>>>> 818d650 (Add files via upload)
+>>>>>>> a9f995b (Add files via upload)
 ## Step 3: Run the Application
 
 1. **Build and run the application**:
@@ -253,7 +266,11 @@ To automate the script, you can use a task scheduler to run the application dail
 **On Unix-based Systems (Using `cron`)**
 =======
 **On Unix-based Systems (Using `cron`)**:
+<<<<<<< HEAD
 >>>>>>> 2938dda (Update Projects:ToDoEmailApp)
+=======
+>>>>>>> 818d650 (Add files via upload)
+>>>>>>> a9f995b (Add files via upload)
 
 1. Open the cron table for editing:
    ```sh
@@ -274,6 +291,7 @@ To automate the script, you can use a task scheduler to run the application dail
    - Action: Start a program
    - Program/script: `C:\path\to\todo_email_app.exe
    - 
+<<<<<<< HEAD
  ´´´´
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -518,5 +536,14 @@ _Docs_
 =======
 =======
 >>>>>>> 39affb5 (Add files via upload)
+<<<<<<< HEAD
 >>>>>>> 22cca21 (Add files via upload)
+<<<<<<< HEAD
 >>>>>>> 57def2a (Add files via upload)
+=======
+=======
+=======
+ ´´´´
+>>>>>>> 818d650 (Add files via upload)
+>>>>>>> a9f995b (Add files via upload)
+>>>>>>> 0803e58 (Add files via upload)
