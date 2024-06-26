@@ -38,4 +38,4 @@ _Documentation_
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
-* [References](../docs/References.md   )
+* [References](.
