@@ -452,6 +452,7 @@ _Documentation_
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
+<<<<<<< HEAD
 * [References](.## Beginners 
 
 Beginners, covers Rust Beginners Basics.
@@ -471,5 +472,14 @@ Beginners, covers Rust Beginners Basics.
 =======
 * [References](../docs/References.md   )
 >>>>>>> 812a058 (Update precommit)
+<<<<<<< HEAD
 >>>>>>> 1109809 (Chore:Update cargo)
+<<<<<<< HEAD
 >>>>>>> d47e65e (Chore:Update cargo)
+=======
+=======
+=======
+* [References](.
+>>>>>>> 1241d71 (Create README.md)
+>>>>>>> 32e7210 (Create README.md)
+>>>>>>> 11278a1 (Create README.md)
