@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 381da28 (Chore:Update directory)
 =======
@@ -729,3 +730,12 @@ In this Beginners repository, we cover Rust Beginners Basics.
 >>>>>>> 48b52ff (Chore:Update Cargo)
 >>>>>>> 266edc0 (Chore:Update Cargo)
 >>>>>>> dcb2864 (Chore:Update directory)
+=======
+Rust Beginners covers Rust Beginners Basics;
+
+Includes Projects;
+
+- Rust WebApp(Basic Rust CrossPlatform Real Estate App).
+- QML App.
+- RustAPI(A Rust_RESTfulAPI)
+>>>>>>> 00070a9 (Create README.md)
