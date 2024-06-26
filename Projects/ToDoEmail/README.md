@@ -71,6 +71,7 @@ To automate the script, you can use a task scheduler to run the application dail
    - Program/script: `C:\path\to\todo_email_app.exe
    - 
  ´´´´
+<<<<<<< HEAD
 TO DO EMAIL App
 
 What?
@@ -97,3 +98,5 @@ _Docs_
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md)
+=======
+>>>>>>> 39affb5 (Add files via upload)
