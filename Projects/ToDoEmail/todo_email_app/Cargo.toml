@@ -70,6 +70,9 @@ chrono = "0.4"
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 22cca21 (Add files via upload)
 [package]
 name = "todo_email_app"
 version = "0.1.0"
@@ -82,6 +85,7 @@ chrono = "0.4"
    serde = { version = "1.0", features = ["derive"] }
    serde_json = "1.0"
 =======
+<<<<<<< HEAD
 >>>>>>> 6dd7d7b (Chore:Resolve Merge Conflicts)
 [package]
 name = "todo_email_app"
@@ -117,4 +121,44 @@ chrono = "0.4"
 =======
 =======
 >>>>>>> 3118847 (Update Projects:ToDoEmailApp)
+<<<<<<< HEAD
 >>>>>>> a9cd9ea (Chore:Rebase master)
+=======
+=======
+=======
+=======
+>>>>>>> 34118f8 (Chore:Update Cargo)
+[package]
+name = "todo_email_app"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+chrono = "0.4"
+   lettre = { version = "0.10.0-rc.4", features = ["smtp-tokio", "builder"] }
+   serde = { version = "1.0", features = ["derive"] }
+   serde_json = "1.0"
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+[package]
+name = "todo_email_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4"
+   lettre = { version = "0.10.0-rc.4", features = ["smtp-tokio", "builder"] }
+   serde = { version = "1.0", features = ["derive"] }
+   serde_json = "1.0"
+=======
+>>>>>>> 787d5a68c01e9ec278f3cac2e8ca6f31317d178a
+>>>>>>> bd563a7 (Chore:Add AUTHORS)
+>>>>>>> d18c8f8 (Chore:Add AUTHORS.)
+=======
+>>>>>>> 34118f8 (Chore:Update Cargo)
+=======
+>>>>>>> 39affb5 (Add files via upload)
+>>>>>>> 22cca21 (Add files via upload)
+>>>>>>> 57def2a (Add files via upload)
