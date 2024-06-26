@@ -150,6 +150,7 @@ _Documentation_
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
 <<<<<<< HEAD
+<<<<<<< HEAD
 * [References](.
 >>>>>>> 5f682b5 (Chore Rebase josephkb87-patch-5 develop)
 =======
@@ -178,3 +179,6 @@ Beginners, covers Rust Beginners Basics.
 =======
 
 >>>>>>> 522c346 (Chore Update README.md)
+=======
+* [References](.
+>>>>>>> 1241d71 (Create README.md)
