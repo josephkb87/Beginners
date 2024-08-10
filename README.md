@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -270,3 +271,5 @@ Beginners, covers Rust Beginners Basics.
 >>>>>>> 4e93fa6 (Create README.md)
 >>>>>>> 2b9416e (Chore:Resolve Merge Conflicts)
 >>>>>>> d87cd10 (Chore:Resolve Merge Conflicts)
+=======
+>>>>>>> 5b00d6e (Chore: Add build)
