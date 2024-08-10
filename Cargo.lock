@@ -9,6 +9,7 @@ dependencies = [
  "actix",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  "atk",
 <<<<<<< HEAD
 =======
@@ -20,6 +21,9 @@ dependencies = [
 =======
  "atk-sys",
 >>>>>>> 4d9a9da (Update cargo.toml)
+=======
+ "atk",
+>>>>>>> 3a5ec12 (Add build)
  "chrono",
  "futures",
  "regex 1.10.4 (git+https://github.com/rust-lang/regex.git)",
@@ -176,11 +180,14 @@ dependencies = [
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 06b4f0e (Update Cargo.toml)
 =======
 >>>>>>> 6727ce8 (Update README.ms)
+=======
+>>>>>>> 3a5ec12 (Add build)
 [[package]]
 name = "ansi_term"
 version = "0.12.1"
@@ -1321,6 +1328,20 @@ checksum = "d2fabcfbdc87f4758337ca535fb41a6d701b65693ce38287d856d1674551ec9b"
 [[package]]
 name = "gobject-sys"
 version = "0.18.0"
+<<<<<<< HEAD
+=======
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "0850127b514d1c4a4654ead6dedadb18198999985908e6ffe4436f53c785ce44"
+dependencies = [
+ "glib-sys",
+ "libc",
+ "system-deps",
+]
+
+[[package]]
+name = "h2"
+version = "0.3.25"
+>>>>>>> 3a5ec12 (Add build)
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "0850127b514d1c4a4654ead6dedadb18198999985908e6ffe4436f53c785ce44"
 dependencies = [
@@ -3441,9 +3462,15 @@ dependencies = [
 
 [[package]]
 name = "target-lexicon"
+<<<<<<< HEAD
 version = "0.12.14"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "e1fc403891a21bcfb7c37834ba66a547a8f402146eba7265b5a6d88059c9ff2f"
+=======
+version = "0.12.16"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "61c41af27dd6d1e27b1b16b489db798443478cef1f06a660c96db617ba5de3b1"
+>>>>>>> 3a5ec12 (Add build)
 
 [[package]]
 name = "tendril"
