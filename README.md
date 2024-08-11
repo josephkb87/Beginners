@@ -1,6 +1,7 @@
 # Rust Beginners
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
 
 Rust is a general-purpose programming language emphasizing performance, type safety, and concurrency. It enforces memory safety, meaning that all references point to valid memory, without a garbage collector. To simultaneously enforce memory safety and prevent data races, its "borrow checker" tracks the object lifetime of all references in a program during compiling.
@@ -11,6 +12,9 @@ Great care has been taken to understand that while [Basel](#) and [Other Contrib
 _Why_
 =======
 Beginners, is a repository for Beginners covers Beginners Basics of [Rust](#).
+=======
+Beginners, is a repository for Beginners that covers Beginners Basics of [Rust](#)
+>>>>>>> 644a379 (Update README.md)
 
 _Rust Beginners_
 
@@ -27,17 +31,18 @@ Rust is a challenging choice, but worth to be chosen. It has strong memory-safet
 This Rust Beginners repository does not teach programming, nor even to teach Rust Pogramming. 
 Rather, it is intended to serve as a guide to provide a gentle introduction to Rust for someone who has or doesnot have experience with at least one other language, preferably a functional language.
 
-
 _Projects_
 
 * QMLApp - A QT Rust App.
 
 * RustAPI -A RESTful RustAPI.
 
-* RustWebApp - A Rust_WASM WebApp
+* RustWebApp - A Rust_WASM WebApp (A Rust CrossPlatform App)
 
 
-## Docs
+_Documentation_
+
+* [Docs](..docs/)
 * [About Me](https://github.com/josephkb87)
 * [About Rust Beginners](../docs/README.md)
 * [Rust Worked Examples](https://github.com/josephkb87/Beginners/tree/main/RustWorkedExamples/README.md)

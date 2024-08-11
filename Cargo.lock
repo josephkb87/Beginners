@@ -38,6 +38,7 @@ dependencies = [
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  "atk",
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -45,6 +46,8 @@ dependencies = [
  "futures",
 =======
 >>>>>>> ee486b7 (Bump h2 from 0.3.25 to 0.3.26)
+=======
+>>>>>>> 2bf4320 (Bump h2 from 0.3.25 to 0.3.26 (#5))
  "atk",
  "chrono",
  "futures",
@@ -53,6 +56,7 @@ dependencies = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 name = "actix"
 version = "0.13.3"
@@ -11691,6 +11695,8 @@ dependencies = [
 ]
 
 [[package]]
+=======
+>>>>>>> 2bf4320 (Bump h2 from 0.3.25 to 0.3.26 (#5))
 name = "actix"
 version = "0.13.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -11842,6 +11848,7 @@ dependencies = [
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 06b4f0e (Update Cargo.toml)
@@ -11849,6 +11856,8 @@ dependencies = [
 >>>>>>> 06b4f0e (Update Cargo.toml)
 =======
 >>>>>>> 3a5ec12 (Add build)
+=======
+>>>>>>> 2bf4320 (Bump h2 from 0.3.25 to 0.3.26 (#5))
 [[package]]
 name = "ansi_term"
 version = "0.12.1"
@@ -11956,6 +11965,7 @@ version = "0.18.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "b4af014b17dd80e8af9fa689b2d4a211ddba6eb583c1622f35d0cb543f6b17e4"
 dependencies = [
+<<<<<<< HEAD
 =======
 >>>>>>> e0ee37d (Update cargo.toml)
  "atk-sys",
@@ -11986,6 +11996,8 @@ checksum = "b4af014b17dd80e8af9fa689b2d4a211ddba6eb583c1622f35d0cb543f6b17e4"
 dependencies = [
 =======
 >>>>>>> 3abdb06 (Chore:Update Cargo)
+=======
+>>>>>>> 2bf4320 (Bump h2 from 0.3.25 to 0.3.26 (#5))
  "atk-sys",
  "glib",
  "libc",
@@ -12002,12 +12014,17 @@ dependencies = [
  "libc",
  "system-deps",
 ]
+<<<<<<< HEAD
 =======
 >>>>>>> d0f9240 (Chore:Rebase master)
 
 [[package]]
 =======
 >>>>>>> ee486b7 (Bump h2 from 0.3.25 to 0.3.26)
+=======
+
+[[package]]
+>>>>>>> 2bf4320 (Bump h2 from 0.3.25 to 0.3.26 (#5))
 name = "autocfg"
 version = "1.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -13031,6 +13048,7 @@ version = "0.18.0"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "0850127b514d1c4a4654ead6dedadb18198999985908e6ffe4436f53c785ce44"
@@ -13046,6 +13064,8 @@ version = "0.3.25"
 >>>>>>> 3a5ec12 (Add build)
 =======
 >>>>>>> ee486b7 (Bump h2 from 0.3.25 to 0.3.26)
+=======
+>>>>>>> 2bf4320 (Bump h2 from 0.3.25 to 0.3.26 (#5))
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "0850127b514d1c4a4654ead6dedadb18198999985908e6ffe4436f53c785ce44"
 dependencies = [
@@ -15168,6 +15188,7 @@ dependencies = [
 name = "target-lexicon"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 version = "0.12.14"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "e1fc403891a21bcfb7c37834ba66a547a8f402146eba7265b5a6d88059c9ff2f"
@@ -15181,6 +15202,11 @@ version = "0.12.14"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "e1fc403891a21bcfb7c37834ba66a547a8f402146eba7265b5a6d88059c9ff2f"
 >>>>>>> ee486b7 (Bump h2 from 0.3.25 to 0.3.26)
+=======
+version = "0.12.14"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "e1fc403891a21bcfb7c37834ba66a547a8f402146eba7265b5a6d88059c9ff2f"
+>>>>>>> 2bf4320 (Bump h2 from 0.3.25 to 0.3.26 (#5))
 
 [[package]]
 name = "tendril"
