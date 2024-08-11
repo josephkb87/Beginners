@@ -42,10 +42,8 @@ _Documentation_
 * [References](../docs/References.md   )
 =======
 ## Beginners 
-
-Beginners, is a repository for Beginners that covers Beginners Basics of [Rust](#)
-
 _Rust Beginners_
+Beginners, is a repository for Beginners that covers Beginners Basics of [Rust](#)
 
 Rust is a general-purpose programming language emphasizing performance, type safety, and concurrency. It enforces memory safety, meaning that all references point to valid memory, without a garbage collector. To simultaneously enforce memory safety and prevent data races, its "borrow checker" tracks the object lifetime of all references in a program during compiling.
 
@@ -84,8 +82,11 @@ _Documentation_
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md   )
+<<<<<<< HEAD
 
 
 ---
 [Contribute](..docs/Contributing.md). [CHANGELOG](..docs/CHANGELOG.md). [Docs](..docs/)
 >>>>>>> f2dd493 (Develop (#1))
+=======
+>>>>>>> d55ea31 (Update README.md)
