@@ -43,7 +43,7 @@ _Documentation_
 =======
 ## Beginners 
 
-Beginners, is a repository for Beginners covers Beginners Basics of [Rust](#).
+Beginners, is a repository for Beginners that covers Beginners Basics of [Rust](#)
 
 _Rust Beginners_
 
@@ -60,17 +60,18 @@ Rust is a challenging choice, but worth to be chosen. It has strong memory-safet
 This Rust Beginners repository does not teach programming, nor even to teach Rust Pogramming. 
 Rather, it is intended to serve as a guide to provide a gentle introduction to Rust for someone who has or doesnot have experience with at least one other language, preferably a functional language.
 
-
 _Projects_
 
 * QMLApp - A QT Rust App.
 
 * RustAPI -A RESTful RustAPI.
 
-* RustWebApp - A Rust_WASM WebApp
+* RustWebApp - A Rust_WASM WebApp (A Rust CrossPlatform App)
 
 
-## Docs
+_Documentation_
+
+* [Docs](..docs/)
 * [About Me](https://github.com/josephkb87)
 * [About Rust Beginners](../docs/README.md)
 * [Rust Worked Examples](https://github.com/josephkb87/Beginners/tree/main/RustWorkedExamples/README.md)
