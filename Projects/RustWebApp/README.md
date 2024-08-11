@@ -1,5 +1,6 @@
 _RustWebApp_
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 RustWebApp is A cross-platform desktop app made desktop using Rust, SolidJS, and Tauri.
 
@@ -13,6 +14,10 @@ Rust is a general-purpose programming language emphasizing performance, type saf
 
 =======
 A cross-platform desktop app made desktop using Rust, SolidJS, and Tauri.
+=======
+
+RustWebApp is A cross-platform desktop app made desktop using Rust, SolidJS, and Tauri.
+>>>>>>> e94e33e (Update README.md)
 
 _Tauri_
 
