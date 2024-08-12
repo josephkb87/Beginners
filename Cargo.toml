@@ -14,6 +14,11 @@ trunk = "0.20.3"
 actix = { version = "0.13.3" }
 chrono = "0.4"
 futures = "0.3"
+<<<<<<< HEAD
 atk = "0.18.0" 
 atk-sys = ">= 0.18.0" 
 >>>>>>> a0cf675 (Update Cargo.toml)
+=======
+atk >= = ">= 2.28" 
+atk-sys = "v0.18.0" 
+>>>>>>> 4d9a9da (Update cargo.toml)

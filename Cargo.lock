@@ -7,11 +7,15 @@ name = "Beginners"
 version = "0.1.0"
 dependencies = [
  "actix",
+<<<<<<< HEAD
  "atk",
 <<<<<<< HEAD
  "atk-sys",
 =======
 >>>>>>> 6727ce8 (Update README.ms)
+=======
+ "atk-sys",
+>>>>>>> 4d9a9da (Update cargo.toml)
  "chrono",
  "futures",
  "regex 1.10.4 (git+https://github.com/rust-lang/regex.git)",
