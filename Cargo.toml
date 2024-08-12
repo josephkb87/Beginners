@@ -19,6 +19,7 @@ futures = "0.3"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 atk = "0.18.0" 
 =======
 atk = ">= 0.1.0" 
@@ -26,6 +27,9 @@ atk = ">= 0.1.0"
 =======
 atk = ">= 0.1.0" 
 >>>>>>> a0cf675 (Update Cargo.toml)
+=======
+atk = "0.18.0" 
+>>>>>>> e0ee37d (Update cargo.toml)
 atk-sys = ">= 0.18.0" 
 >>>>>>> a0cf675 (Update Cargo.toml)
 =======

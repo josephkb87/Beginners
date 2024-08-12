@@ -8,8 +8,12 @@ version = "0.1.0"
 dependencies = [
  "actix",
 <<<<<<< HEAD
+<<<<<<< HEAD
  "atk",
 <<<<<<< HEAD
+=======
+ "atk",
+>>>>>>> e0ee37d (Update cargo.toml)
  "atk-sys",
 =======
 >>>>>>> 6727ce8 (Update README.ms)
