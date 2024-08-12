@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -103,6 +104,8 @@ s
 =======
 =======
 >>>>>>> c86712b (Update cargo.toml)
+=======
+>>>>>>> cafd485 (Update cargo.toml)
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -168,6 +171,8 @@ atk-sys = ">= 0.18.0"
 >>>>>>> c86712b (Update cargo.toml)
 atk-sys = ">= 0.18.0" 
 =======
+=======
+>>>>>>> 3617d9e (Update cargo.toml)
 <<<<<<< HEAD
 s
 =======
@@ -197,5 +202,17 @@ atk = ">= 2.28"
 >>>>>>> ed11267 (Update cargo.toml)
 atk-sys = "v0.18.0" 
 >>>>>>> 4d9a9da (Update cargo.toml)
+<<<<<<< HEAD
 >>>>>>> 9780232 (Chore:Update cargo)
+<<<<<<< HEAD
 >>>>>>> ba086fe (Chore:Update directory)
+=======
+=======
+=======
+atk-sys = ">= 0.18.0" 
+>>>>>>> 2e85963 (Update cargo.toml)
+=======
+s
+>>>>>>> 255ed2f (Update cargo.toml)
+>>>>>>> 3617d9e (Update cargo.toml)
+>>>>>>> cafd485 (Update cargo.toml)
