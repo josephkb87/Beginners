@@ -11,5 +11,5 @@ trunk = "0.19.1"
 actix = { version = "0.13.3" }
 chrono = "0.4"
 futures = "0.3"
-atk >= = ">= 2.28" 
+atk = ">= 2.28" 
 atk-sys = "v0.18.0" 
