@@ -1,7 +1,6 @@
 TO DO EMAIL App
 
-W
-Xhat?
+What?
 We create a TO DO App that sends the to do list to an email.
 
 Why?
@@ -29,9 +28,10 @@ How?
    serde_json = "1.0"
    ```
 
-## Implement the To-Do Application
+## Step 2: Implement the To-Do Application
 
 1. **Create the main logic in `src/main.rs`**:
+
 
 ## Step 3: Run the Application
 
@@ -49,7 +49,7 @@ How?
 
 To automate the script, you can use a task scheduler to run the application daily.
 
-**On Unix-based Systems (Using `cron`)**
+**On Unix-based Systems (Using `cron`)**:
 
 1. Open the cron table for editing:
    ```sh
