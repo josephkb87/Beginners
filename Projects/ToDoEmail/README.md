@@ -16,6 +16,7 @@ Enthusiasts, Users, Programmers, interested in making their daily to do list eas
 
 How? 
 
+<<<<<<< HEAD
 ## Step 1: Set Up Your Rust Project
 
 1. **Create a new Rust project**:
@@ -120,3 +121,5 @@ _Docs_
 =======
  ´´´´
 >>>>>>> 818d650 (Add files via upload)
+=======
+>>>>>>> 0841a7f (Update Projects:ToDoEmailApp)
