@@ -115,6 +115,7 @@ _Docs_
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
+<<<<<<< HEAD
 * [References](../docs/References.md)
 =======
 >>>>>>> 39affb5 (Add files via upload)
@@ -123,3 +124,6 @@ _Docs_
 >>>>>>> 818d650 (Add files via upload)
 =======
 >>>>>>> 0841a7f (Update Projects:ToDoEmailApp)
+=======
+* [References](../docs/References.md)
+>>>>>>> 68b0f92 (Update Projects:ToDoEmailApp)
