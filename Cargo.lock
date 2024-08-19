@@ -163,6 +163,10 @@ dependencies = [
  "libc",
 ]
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 06b4f0e (Update Cargo.toml)
 [[package]]
 name = "ansi_term"
 version = "0.12.1"
