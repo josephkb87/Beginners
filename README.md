@@ -233,4 +233,8 @@ Beginners, covers Rust Beginners Basics.
 
 ---
 [Contribute](..docs/Contributing.md). [CHANGELOG](..docs/CHANGELOG.md). [Docs](..docs/)
+<<<<<<< HEAD
 >>>>>>> f871fb7 (Update README.md)
+=======
+
+>>>>>>> 522c346 (Chore Update README.md)
