@@ -67,8 +67,20 @@ _Documentation_
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md   )
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 >>>>>>> 5fd3893 (Update README.md)
+=======
+# Rust Beginners
+
+_Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
+
+Rust is a general-purpose programming language emphasizing performance, type safety, and concurrency. It enforces memory safety, meaning that all references point to valid memory, without a garbage collector. To simultaneously enforce memory safety and prevent data races, its "borrow checker" tracks the object lifetime of all references in a program during compiling.
+
+Great care has been taken to understand that while [Basel](#) and [Other Contributors](##) has been utilised to build this [Rust Beginners](#).
+
+_Why_
+>>>>>>> 3e2d0d1 (Chore Rebase josephkb87-patch-5 develop)
 
 Alot of the changes in programming language usage come with the need to learn new languages depending on industry and individuals requirements.
 This repository serves the purpose of covering the basics for Beginners of Rust.
@@ -83,7 +95,12 @@ _Projects_
 
 * RustAPI -A RESTful RustAPI.
 
+<<<<<<< HEAD
 * RustWebApp - A Rust_WASM WebApp (A Rust CrossPlatform App).
+=======
+* RustWebApp - A Rust_WASM WebApp (A Rust CrossPlatform App)
+
+>>>>>>> 3e2d0d1 (Chore Rebase josephkb87-patch-5 develop)
 
 _Documentation_
 
@@ -99,6 +116,10 @@ _Documentation_
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
+<<<<<<< HEAD
 * [References](../docs/References.md)
 =======
 >>>>>>> d55ea31 (Update README.md)
+=======
+* [References](.
+>>>>>>> 3e2d0d1 (Chore Rebase josephkb87-patch-5 develop)

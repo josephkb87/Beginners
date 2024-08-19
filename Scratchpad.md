@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -356,6 +357,8 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 >>>>>>> 48b52ff (Chore:Update Cargo)
 >>>>>>> 266edc0 (Chore:Update Cargo)
 =======
+=======
+>>>>>>> 3e2d0d1 (Chore Rebase josephkb87-patch-5 develop)
 # Beginners Scratchpad
 
 ## This  Beginner's Scratchpad is evidence of the work done on this repositrory.
@@ -658,6 +661,7 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 
 
 
+<<<<<<< HEAD
 >>>>>>> 7fc148c (Chore Rebase josephkb87-patch-5 develop)
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -696,4 +700,6 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 >>>>>>> 48b52ff (Chore:Update Cargo)
 >>>>>>> 266edc0 (Chore:Update Cargo)
 >>>>>>> dcb2864 (Chore:Update directory)
+=======
+>>>>>>> 3e2d0d1 (Chore Rebase josephkb87-patch-5 develop)
     ====
