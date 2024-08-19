@@ -1,7 +1,6 @@
 TO DO EMAIL App
 
-W
-Xhat?
+What?
 We create a TO DO App that sends the to do list to an email.
 
 Why?
@@ -12,8 +11,9 @@ Enthusiasts, Users, Programmers, interested in making their daily to do list eas
 
 How? 
 
-## Step 1: Set Up Your Rust Project
+_Docs_
 
+<<<<<<< HEAD
 1. **Create a new Rust project**:
    ```sh
    cargo new todo_email_app
@@ -86,6 +86,8 @@ How?
 
 _Docs_
 
+=======
+>>>>>>> 787d5a68c01e9ec278f3cac2e8ca6f31317d178a
 * [About Me](https://github.com/josephkb87)* [About Rust Beginners](../docs/README.md)
 * [Rust Worked Examples](https://github.com/josephkb87/Beginners/tree/main/RustWorkedExamples/README.md)
 * [Rust Projects](https://github.com/josephkb87/RustBeginners/tree/main/Projects/README.md)
