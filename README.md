@@ -5,7 +5,6 @@ _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust
 Rust is a general-purpose programming language emphasizing performance, type safety, and concurrency. It enforces memory safety, meaning that all references point to valid memory, without a garbage collector. To simultaneously enforce memory safety and prevent data races, its "borrow checker" tracks the object lifetime of all references in a program during compiling.
 
 
-<<<<<<< HEAD
 Great care has been taken to understand that while [Basel](#) and [Other Contributors](##) has been utilised to build this [Rust Beginners](#).
 
 _Why_
@@ -29,7 +28,7 @@ _Projects_
 _Documentation_
 
 * [Docs](..docs/)
-* [About Me](https://github.com/josephkb87)
+* [AUTHORS](..docs/AUTHORS/AUTHORS.md)
 * [About Rust Beginners](../docs/README.md)
 * [Rust Worked Examples](https://github.com/josephkb87/Beginners/tree/main/RustWorkedExamples/README.md)
 * [Rust Projects](https://github.com/josephkb87/RustBeginners/tree/main/Projects/README.md)
@@ -47,8 +46,6 @@ _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust
 
 Rust is a general-purpose programming language emphasizing performance, type safety, and concurrency. It enforces memory safety, meaning that all references point to valid memory, without a garbage collector. To simultaneously enforce memory safety and prevent data races, its "borrow checker" tracks the object lifetime of all references in a program during compiling.
 
-=======
->>>>>>> 787d5a68c01e9ec278f3cac2e8ca6f31317d178a
 Great care has been taken to understand that while [Basel](#) and [Other Contributors](##) has been utilised to build this [Rust Beginners](#).
 
 _Why_
