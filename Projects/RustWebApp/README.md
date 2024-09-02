@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 _RustWebApp_
 
 <<<<<<< HEAD
@@ -44,6 +45,8 @@ _Docs_
 =======
 =======
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
+=======
+>>>>>>> 69bbc46 (Chore:Add AUTHORS)
 _RustWebApp_
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -129,6 +132,7 @@ _Docs_
 >>>>>>> 6619e15 (Update README.md)
 >>>>>>> 29c78c3 (Update README.md)
 
+<<<<<<< HEAD
 _SolidJS_
 
 SolidJS has one of the really good declarative UI Libraries.SolidJS a very powerful but not that well-known Javascript library that we can use to create modern and performing UI/UX.
@@ -151,6 +155,8 @@ _Docs_
 <<<<<<< HEAD
 >>>>>>> 743dace (Chore:Resolve Merge Conflicts)
 =======
+=======
+>>>>>>> 69bbc46 (Chore:Add AUTHORS)
 =======
 _RustWebApp_
 
@@ -194,4 +200,7 @@ _Docs_
 * [References](../docs/References.md)
 
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
+<<<<<<< HEAD
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
+=======
+>>>>>>> 69bbc46 (Chore:Add AUTHORS)

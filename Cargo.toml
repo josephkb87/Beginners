@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -18,6 +19,8 @@ atk-sys = ">= 0.18.0"
 =======
 =======
 >>>>>>> 3617d9e (Update cargo.toml)
+=======
+>>>>>>> 69bbc46 (Chore:Add AUTHORS)
 <<<<<<< HEAD
 s
 =======
@@ -64,4 +67,31 @@ atk-sys = ">= 0.18.0"
 =======
 s
 >>>>>>> 255ed2f (Update cargo.toml)
+<<<<<<< HEAD
 >>>>>>> 3617d9e (Update cargo.toml)
+=======
+=======
+<<<<<<< HEAD
+s
+=======
+[package]
+name = "Beginners"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kiyini Joseph Balamazze"]
+
+
+[dependencies]
+regex = { git = "https://github.com/rust-lang/regex.git" }
+trunk = "0.20.3"
+actix = { version = "0.13.3" }
+chrono = "0.4"
+futures = "0.3"
+atk = "0.18.0" 
+atk-sys = ">= 0.18.0" 
+<<<<<<< HEAD
+>>>>>>> a0cf675 (Update Cargo.toml)
+=======
+>>>>>>> 787d5a68c01e9ec278f3cac2e8ca6f31317d178a
+>>>>>>> bd563a7 (Chore:Add AUTHORS)
+>>>>>>> 69bbc46 (Chore:Add AUTHORS)
