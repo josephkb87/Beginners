@@ -69,6 +69,7 @@ chrono = "0.4"
    serde = { version = "1.0", features = ["derive"] }
    serde_json = "1.0"
 
+<<<<<<< HEAD
 [package]
 name = "todo_email_app"
 version = "0.1.0"
@@ -97,4 +98,9 @@ chrono = "0.4"
 =======
 =======
 >>>>>>> dfa7665 (Chore:Rebase patch01 master)
+<<<<<<< HEAD
 >>>>>>> a5655d4 (Chore:Rebase patch01 master)
+=======
+=======
+>>>>>>> 2b9416e (Chore:Resolve Merge Conflicts)
+>>>>>>> d87cd10 (Chore:Resolve Merge Conflicts)
