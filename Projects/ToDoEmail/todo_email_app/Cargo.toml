@@ -39,6 +39,7 @@ chrono = "0.4"
 name = "todo_email_app"
 version = "0.1.0"
 edition = "2021"
+<<<<<<< HEAD
 
 [dependencies]
 chrono = "0.4"
@@ -57,3 +58,5 @@ chrono = "0.4"
    serde_json = "1.0"
 
 >>>>>>> 820281c (Chore:Resolve Merge Conflicts)
+=======
+>>>>>>> dfa7665 (Chore:Rebase patch01 master)
