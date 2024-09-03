@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 [package]
@@ -28,11 +29,19 @@ s
 >>>>>>> 7c54f14 (Chore:Update Cargo)
 =======
 =======
+>>>>>>> 9f4bfa6 (Chore:Resolve Merge Conflicts)
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 s
 =======
+<<<<<<< HEAD
 >>>>>>> 9f12a31 (Update Cargo.toml)
+=======
+=======
+
+>>>>>>> 57b9364 (Chore:Resolve Merge Conflicts)
+>>>>>>> 9f4bfa6 (Chore:Resolve Merge Conflicts)
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -46,6 +55,7 @@ trunk = "0.20.3"
 actix = { version = "0.13.3" }
 chrono = "0.4"
 futures = "0.3"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 atk >= = ">= 2.28" 
@@ -61,9 +71,19 @@ atk-sys = ">= 0.18.0"
 >>>>>>> a5655d4 (Chore:Rebase patch01 master)
 =======
 atk = ">= 0.1.0" 
+=======
+atk = "0.18.0" 
+>>>>>>> 9f4bfa6 (Chore:Resolve Merge Conflicts)
 atk-sys = ">= 0.18.0" 
+<<<<<<< HEAD
 =======
 s
 >>>>>>> 255ed2f (Update cargo.toml)
 >>>>>>> b41c519 (Update Cargo.toml)
+<<<<<<< HEAD
 >>>>>>> 9f12a31 (Update Cargo.toml)
+=======
+=======
+
+>>>>>>> 57b9364 (Chore:Resolve Merge Conflicts)
+>>>>>>> 9f4bfa6 (Chore:Resolve Merge Conflicts)
