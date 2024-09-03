@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 2b9416e (Chore:Resolve Merge Conflicts)
 # Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
@@ -181,6 +184,7 @@ _Documentation_
 * [LICENSE](../LICENSE.md)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 * [References](.
 >>>>>>> 7fc148c (Chore Rebase josephkb87-patch-5 develop)
 =======
@@ -243,3 +247,20 @@ Beginners, covers Rust Beginners Basics.
 =======
 * [References](.
 >>>>>>> b71e4af (Create README.md)
+=======
+* [References](.
+=======
+## Beginners 
+
+In this Beginners repository, we cover Rust Beginners Basics.
+
+#### Projects
+
+** QMLApp - A QT Rust App 
+** RustAPI -A RESTful RustAPI
+** RustWebApp -A Rust_WASM WebApp 
+
+  
+[Contribute](..docs/Contributing.md) [CHANGELOG](..docs/CHANGELOG.md). 
+>>>>>>> 4e93fa6 (Create README.md)
+>>>>>>> 2b9416e (Chore:Resolve Merge Conflicts)
