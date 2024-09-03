@@ -151,6 +151,7 @@ chrono = "0.4"
 name = "todo_email_app"
 version = "0.1.0"
 edition = "2021"
+<<<<<<< HEAD
 
 [dependencies]
 chrono = "0.4"
@@ -176,6 +177,7 @@ chrono = "0.4"
 <<<<<<< HEAD
 
 >>>>>>> 820281c (Chore:Resolve Merge Conflicts)
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 7ba5151 (Chore:Update Cargo)
 =======
@@ -439,3 +441,7 @@ chrono = "0.4"
 
 >>>>>>> 820281c (Chore:Resolve Merge Conflicts)
 >>>>>>> 7ba5151 (Chore:Update Cargo)
+=======
+=======
+>>>>>>> dfa7665 (Chore:Rebase patch01 master)
+>>>>>>> a5655d4 (Chore:Rebase patch01 master)
