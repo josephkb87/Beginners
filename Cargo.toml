@@ -23,11 +23,3 @@ chrono = "0.4"
 futures = "0.3"
 atk = "0.18.0" 
 atk-sys = ">= 0.18.0" 
-<<<<<<< HEAD
-=======
-s
->>>>>>> 255ed2f (Update cargo.toml)
->>>>>>> b41c519 (Update Cargo.toml)
-=======
-
->>>>>>> 57b9364 (Chore:Resolve Merge Conflicts)
