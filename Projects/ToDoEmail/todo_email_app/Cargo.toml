@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [package]
 name = "todo_email_app"
 version = "0.1.0"
@@ -22,3 +23,37 @@ chrono = "0.4"
    serde_json = "1.0"
 =======
 >>>>>>> 787d5a68c01e9ec278f3cac2e8ca6f31317d178a
+=======
+[package]
+name = "todo_email_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4"
+   lettre = { version = "0.10.0-rc.4", features = ["smtp-tokio", "builder"] }
+   serde = { version = "1.0", features = ["derive"] }
+   serde_json = "1.0"
+
+[package]
+name = "todo_email_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4"
+   lettre = { version = "0.10.0-rc.4", features = ["smtp-tokio", "builder"] }
+   serde = { version = "1.0", features = ["derive"] }
+   serde_json = "1.0"
+[package]
+name = "todo_email_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4"
+   lettre = { version = "0.10.0-rc.4", features = ["smtp-tokio", "builder"] }
+   serde = { version = "1.0", features = ["derive"] }
+   serde_json = "1.0"
+
+>>>>>>> 820281c (Chore:Resolve Merge Conflicts)
