@@ -1,11 +1,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> 2b9416e (Chore:Resolve Merge Conflicts)
+=======
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> df92c8b (Chore:Resolve Merge Conflicts)
 # Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
@@ -47,6 +53,7 @@ _Documentation_
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
+<<<<<<< HEAD
 * [References](.
 =======
 <<<<<<< HEAD
@@ -92,6 +99,8 @@ _Documentation_
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
+=======
+>>>>>>> df92c8b (Chore:Resolve Merge Conflicts)
 * [References](../docs/References.md   )
 =======
 ## Beginners 
@@ -143,8 +152,11 @@ _Documentation_
 [Contribute](..docs/Contributing.md). [CHANGELOG](..docs/CHANGELOG.md). [Docs](..docs/)
 >>>>>>> f2dd493 (Develop (#1))
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 30cc8c7 (Develop (#1))
 =======
+=======
+>>>>>>> df92c8b (Chore:Resolve Merge Conflicts)
 # Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
@@ -185,6 +197,7 @@ _Documentation_
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -251,6 +264,8 @@ Beginners, covers Rust Beginners Basics.
 * [References](.
 >>>>>>> b71e4af (Create README.md)
 =======
+=======
+>>>>>>> df92c8b (Chore:Resolve Merge Conflicts)
 * [References](.
 =======
 ## Beginners 
@@ -269,7 +284,14 @@ Beginners, covers Rust Beginners Basics.
 ---
 [Contribute](..docs/Contributing.md). [CHANGELOG](..docs/CHANGELOG.md). [Docs](..docs/)
 >>>>>>> 4e93fa6 (Create README.md)
+<<<<<<< HEAD
 >>>>>>> 2b9416e (Chore:Resolve Merge Conflicts)
 >>>>>>> d87cd10 (Chore:Resolve Merge Conflicts)
 =======
 >>>>>>> 5b00d6e (Chore: Add build)
+=======
+=======
+
+>>>>>>> d84c592 (Create README.md)
+>>>>>>> 6f806f1 (Chore:Resolve Merge Conflicts)
+>>>>>>> df92c8b (Chore:Resolve Merge Conflicts)
