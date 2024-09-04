@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -20,6 +21,8 @@ cxx-qt = "0.6.1"
 <<<<<<< HEAD
 s
 =======
+=======
+>>>>>>> 7ba5151 (Chore:Update Cargo)
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -36,7 +39,10 @@ futures = "0.3"
 atk = "0.18.0" 
 atk-sys = ">= 0.18.0" 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> a0cf675 (Update Cargo.toml)
 =======
 >>>>>>> 787d5a68c01e9ec278f3cac2e8ca6f31317d178a
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
+=======
+>>>>>>> 7ba5151 (Chore:Update Cargo)
