@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
@@ -46,6 +47,8 @@ _Documentation_
 * [References](.
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> f05c22e (Update README.md)
 # Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
