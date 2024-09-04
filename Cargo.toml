@@ -4,10 +4,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
 =======
 <<<<<<< HEAD
 >>>>>>> 7d837f7 (Chore:Update directory)
+=======
+<<<<<<< HEAD
+>>>>>>> 2a594fd (Chore:Update Cargo)
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -86,6 +90,9 @@ s
 <<<<<<< HEAD
 s
 =======
+<<<<<<< HEAD
+>>>>>>> fd9fc1e (Chore:Update Cargo)
+=======
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -102,6 +109,7 @@ futures = "0.3"
 atk = "0.18.0" 
 atk-sys = ">= 0.18.0" 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> a0cf675 (Update Cargo.toml)
 =======
 >>>>>>> 787d5a68c01e9ec278f3cac2e8ca6f31317d178a
@@ -112,4 +120,10 @@ atk-sys = ">= 0.18.0"
 =======
 =======
 >>>>>>> 766a893 (Update README.md)
+<<<<<<< HEAD
 >>>>>>> 7d837f7 (Chore:Update directory)
+=======
+=======
+>>>>>>> 7ba5151 (Chore:Update Cargo)
+>>>>>>> fd9fc1e (Chore:Update Cargo)
+>>>>>>> 2a594fd (Chore:Update Cargo)

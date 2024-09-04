@@ -12,6 +12,7 @@ chrono = "0.4"
    serde_json = "1.0"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 [package]
@@ -34,6 +35,9 @@ chrono = "0.4"
 =======
 <<<<<<< HEAD
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
+=======
+<<<<<<< HEAD
+>>>>>>> 2a594fd (Chore:Update Cargo)
 [package]
 name = "todo_email_app"
 version = "0.1.0"
@@ -68,7 +72,12 @@ chrono = "0.4"
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 =======
 >>>>>>> 69bbc46 (Chore:Add AUTHORS)
+<<<<<<< HEAD
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
+=======
+=======
+>>>>>>> fd9fc1e (Chore:Update Cargo)
+>>>>>>> 2a594fd (Chore:Update Cargo)
 [package]
 name = "todo_email_app"
 version = "0.1.0"
@@ -187,6 +196,8 @@ chrono = "0.4"
 =======
 =======
 =======
+=======
+>>>>>>> 7ba5151 (Chore:Update Cargo)
 [package]
 name = "todo_email_app"
 version = "0.1.0"
@@ -211,6 +222,49 @@ chrono = "0.4"
    serde_json = "1.0"
 =======
 >>>>>>> 787d5a68c01e9ec278f3cac2e8ca6f31317d178a
+<<<<<<< HEAD
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
+<<<<<<< HEAD
 >>>>>>> 69bbc46 (Chore:Add AUTHORS)
+<<<<<<< HEAD
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
+=======
+=======
+=======
+=======
+[package]
+name = "todo_email_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4"
+   lettre = { version = "0.10.0-rc.4", features = ["smtp-tokio", "builder"] }
+   serde = { version = "1.0", features = ["derive"] }
+   serde_json = "1.0"
+
+[package]
+name = "todo_email_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4"
+   lettre = { version = "0.10.0-rc.4", features = ["smtp-tokio", "builder"] }
+   serde = { version = "1.0", features = ["derive"] }
+   serde_json = "1.0"
+[package]
+name = "todo_email_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4"
+   lettre = { version = "0.10.0-rc.4", features = ["smtp-tokio", "builder"] }
+   serde = { version = "1.0", features = ["derive"] }
+   serde_json = "1.0"
+
+>>>>>>> 820281c (Chore:Resolve Merge Conflicts)
+>>>>>>> 7ba5151 (Chore:Update Cargo)
+>>>>>>> fd9fc1e (Chore:Update Cargo)
+>>>>>>> 2a594fd (Chore:Update Cargo)
