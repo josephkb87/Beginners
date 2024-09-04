@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -23,6 +24,9 @@ s
 =======
 =======
 >>>>>>> 7ba5151 (Chore:Update Cargo)
+=======
+
+>>>>>>> 7c54f14 (Chore:Update Cargo)
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -38,3 +42,7 @@ chrono = "0.4"
 futures = "0.3"
 atk = "0.18.0" 
 atk-sys = ">= 0.18.0" 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7c54f14 (Chore:Update Cargo)
