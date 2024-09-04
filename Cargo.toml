@@ -13,6 +13,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -118,6 +119,8 @@ s
 >>>>>>> 2a594fd (Chore:Update Cargo)
 =======
 >>>>>>> 03f5714 (Chore:Update directory)
+=======
+>>>>>>> 5ad3e0d (Chore:Update Cargo)
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -237,6 +240,8 @@ s
 =======
 =======
 >>>>>>> c346404 (Chore:Update Cargo)
+=======
+>>>>>>> d29b0f5 (Chore:Update Cargo)
 <<<<<<< HEAD
 s
 =======
@@ -291,6 +296,9 @@ atk-sys = ">= 0.18.0"
 <<<<<<< HEAD
 s
 =======
+=======
+
+>>>>>>> 7c54f14 (Chore:Update Cargo)
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -304,9 +312,21 @@ trunk = "0.20.3"
 actix = { version = "0.13.3" }
 chrono = "0.4"
 futures = "0.3"
+<<<<<<< HEAD
 atk >= = ">= 2.28" 
 atk-sys = "v0.18.0" 
 >>>>>>> 851dcee (Update cargo.toml)
 >>>>>>> 9fde6ab (Chore:Update Cargo)
+<<<<<<< HEAD
 >>>>>>> c346404 (Chore:Update Cargo)
+<<<<<<< HEAD
 >>>>>>> 03f5714 (Chore:Update directory)
+=======
+=======
+=======
+atk = "0.18.0" 
+atk-sys = ">= 0.18.0" 
+
+>>>>>>> 7c54f14 (Chore:Update Cargo)
+>>>>>>> d29b0f5 (Chore:Update Cargo)
+>>>>>>> 5ad3e0d (Chore:Update Cargo)
