@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+>>>>>>> 90f3613 (Chore:Rebase master)
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -39,6 +43,8 @@
 >>>>>>> 58bf9c0 (Chore:Resolve Merge Conflicts)
 =======
 >>>>>>> 8ffacc5 (Chore:Rebase master)
+=======
+>>>>>>> 90f3613 (Chore:Rebase master)
 
 =======
 =======
@@ -52,16 +58,20 @@ s
 <<<<<<< HEAD
 >>>>>>> 9f12a31 (Update Cargo.toml)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> e8c2350 (Chore:Update cargo)
 <<<<<<< HEAD
 >>>>>>> bd663f2 (Chore:Update cargo)
 =======
 =======
 =======
+>>>>>>> 90f3613 (Chore:Rebase master)
+=======
 =======
 
 >>>>>>> 57b9364 (Chore:Resolve Merge Conflicts)
 >>>>>>> 9f4bfa6 (Chore:Resolve Merge Conflicts)
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 58bf9c0 (Chore:Resolve Merge Conflicts)
 <<<<<<< HEAD
@@ -74,6 +84,11 @@ s
 >>>>>>> 3cdea5e (Chore:Rebase master)
 =======
 >>>>>>> 86d94cd (Chore:Update directory)
+=======
+=======
+>>>>>>> ea61c03 (Chore:Rebase master)
+>>>>>>> da06c0e (Chore:Rebase master)
+>>>>>>> 90f3613 (Chore:Rebase master)
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -338,5 +353,47 @@ futures = "0.3"
 atk = "0.18.0" 
 atk-sys = ">= 0.18.0" 
 >>>>>>> 4801d3a (Chore:Rebase master)
+<<<<<<< HEAD
 >>>>>>> d2feec9 (Chore:Update cargo)
+<<<<<<< HEAD
 >>>>>>> b3d100b (Chore:Update cargo)
+=======
+=======
+=======
+[package]
+name = "Beginners"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kiyini Joseph Balamazze"]
+
+
+[dependencies]
+regex = { git = "https://github.com/rust-lang/regex.git" }
+trunk = "0.20.3"
+actix = { version = "0.13.3" }
+chrono = "0.4"
+futures = "0.3"
+atk = "0.18.0" 
+atk-sys = ">= 0.18.0" 
+=======
+<<<<<<< HEAD
+s
+=======
+[package]
+name = "Beginners"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kiyini Joseph Balamazze"]
+
+
+[dependencies]
+regex = { git = "https://github.com/rust-lang/regex.git" }
+trunk = "0.20.3"
+actix = { version = "0.13.3" }
+chrono = "0.4"
+futures = "0.3"
+atk = "0.18.0" 
+atk-sys = ">= 0.18.0" 
+>>>>>>> c1475d1 (Chore:Rebase master)
+>>>>>>> da06c0e (Chore:Rebase master)
+>>>>>>> 90f3613 (Chore:Rebase master)
