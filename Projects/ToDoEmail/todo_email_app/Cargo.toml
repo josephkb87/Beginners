@@ -244,6 +244,7 @@ chrono = "0.4"
    serde_json = "1.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [package]
 name = "todo_email_app"
 version = "0.1.0"
@@ -255,6 +256,8 @@ chrono = "0.4"
    lettre = { version = "0.10.0-rc.4", features = ["smtp-tokio", "builder"] }
    serde = { version = "1.0", features = ["derive"] }
    serde_json = "1.0"
+=======
+>>>>>>> 6dd7d7b (Chore:Resolve Merge Conflicts)
 [package]
 name = "todo_email_app"
 version = "0.1.0"
@@ -265,6 +268,7 @@ chrono = "0.4"
    lettre = { version = "0.10.0-rc.4", features = ["smtp-tokio", "builder"] }
    serde = { version = "1.0", features = ["derive"] }
    serde_json = "1.0"
+<<<<<<< HEAD
 
 >>>>>>> 820281c (Chore:Resolve Merge Conflicts)
 <<<<<<< HEAD
@@ -289,6 +293,17 @@ chrono = "0.4"
 =======
 =======
 >>>>>>> 2b9416e (Chore:Resolve Merge Conflicts)
+<<<<<<< HEAD
 >>>>>>> d87cd10 (Chore:Resolve Merge Conflicts)
+<<<<<<< HEAD
 >>>>>>> 62121c2 (Chore:Update cargo)
+<<<<<<< HEAD
 >>>>>>> 381da28 (Chore:Update directory)
+=======
+=======
+=======
+=======
+>>>>>>> 6dd7d7b (Chore:Resolve Merge Conflicts)
+>>>>>>> ea61c03 (Chore:Rebase master)
+>>>>>>> 8ffacc5 (Chore:Rebase master)
+>>>>>>> 3cdea5e (Chore:Rebase master)
