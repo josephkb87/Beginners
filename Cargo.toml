@@ -374,6 +374,7 @@ actix = { version = "0.13.3" }
 chrono = "0.4"
 futures = "0.3"
 atk = "0.18.0" 
+<<<<<<< HEAD
 atk-sys = ">= 0.18.0" 
 =======
 <<<<<<< HEAD
@@ -395,5 +396,14 @@ futures = "0.3"
 atk = "0.18.0" 
 atk-sys = ">= 0.18.0" 
 >>>>>>> c1475d1 (Chore:Rebase master)
+<<<<<<< HEAD
 >>>>>>> da06c0e (Chore:Rebase master)
+<<<<<<< HEAD
 >>>>>>> 90f3613 (Chore:Rebase master)
+=======
+=======
+=======
+atk-sys = ">= 0.18.0" 
+>>>>>>> d0f3556 (Chore:Rebase master)
+>>>>>>> ba91f8a (Chore:Rebase master)
+>>>>>>> 1f58bc3 (Chore:Rebase master)
