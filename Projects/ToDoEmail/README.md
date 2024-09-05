@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 TO DO EMAIL App
 
 What?
@@ -190,6 +191,8 @@ _Docs_
 >>>>>>> 4801d3a (Chore:Rebase master)
 =======
 >>>>>>> 2a594fd (Chore:Update Cargo)
+=======
+>>>>>>> 3cdea5e (Chore:Rebase master)
 TO DO EMAIL App
 
 <<<<<<< HEAD
@@ -691,6 +694,8 @@ _Docs_
 =======
 =======
 =======
+=======
+>>>>>>> ea61c03 (Chore:Rebase master)
 TO DO EMAIL App
 
 What?
@@ -703,8 +708,6 @@ Who?
 Enthusiasts, Users, Programmers, interested in making their daily to do list easily accessible.
 
 How? 
-
-## Step 1: Set Up Your Rust Project
 
 1. **Create a new Rust project**:
    ```sh
@@ -763,21 +766,8 @@ To automate the script, you can use a task scheduler to run the application dail
    - Program/script: `C:\path\to\todo_email_app.exe
    - 
  ´´´´
-TO DO EMAIL App
-
-What?
-We create a TO DO App that sends the to do list to an email.
-
-Why?
-Most TO DO Apps, mostly focus on making a list with some form of alarm or notification, but not making an app where you make the list and that list is forwarded to your email for you to receive as apart of the work day mail.
-
-Who?
-Enthusiasts, Users, Programmers, interested in making their daily to do list easily accessible.
-
-How? 
 
 _Docs_
-
 * [About Me](https://github.com/josephkb87)* [About Rust Beginners](../docs/README.md)
 * [Rust Worked Examples](https://github.com/josephkb87/Beginners/tree/main/RustWorkedExamples/README.md)
 * [Rust Projects](https://github.com/josephkb87/RustBeginners/tree/main/Projects/README.md)
@@ -788,6 +778,7 @@ _Docs_
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
+<<<<<<< HEAD
 * [References](../docs/References.md)TO DO EMAIL App
 
 W
@@ -863,5 +854,14 @@ To automate the script, you can use a task scheduler to run the application dail
  ´´´´
 >>>>>>> 820281c (Chore:Resolve Merge Conflicts)
 >>>>>>> 7ba5151 (Chore:Update Cargo)
+<<<<<<< HEAD
 >>>>>>> fd9fc1e (Chore:Update Cargo)
+<<<<<<< HEAD
 >>>>>>> 2a594fd (Chore:Update Cargo)
+=======
+=======
+=======
+* [References](../docs/References.md)
+>>>>>>> ea61c03 (Chore:Rebase master)
+>>>>>>> 8ffacc5 (Chore:Rebase master)
+>>>>>>> 3cdea5e (Chore:Rebase master)
