@@ -54,6 +54,7 @@ _Documentation_
 * [References](../docs/References.md   )
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 # Rust Beginners Basics.
@@ -651,3 +652,6 @@ In this Beginners repository, we cover Rust Beginners Basics.
 
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 >>>>>>> ba91f8a (Chore:Rebase master)
+=======
+
+>>>>>>> 03c8334 (Chore:Rebase master)
