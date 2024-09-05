@@ -109,22 +109,6 @@ _Documentation_
 =======
 ## Beginners 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Beginners, covers Rust Beginners Basics.
-
----
-#### Projects
-
--- QMLApp - A QT Rust App.
-
--- RustAPI -A RESTful RustAPI.
-
---  RustWebApp -A Rust_WASM WebApp 
-=======
-=======
->>>>>>> d0f3556 (Chore:Rebase master)
 Beginners, is a repository for Beginners that covers Beginners Basics of [Rust](#)
 
 _Rust Beginners_
@@ -167,25 +151,10 @@ _Documentation_
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md   )
 
-<<<<<<< HEAD
->>>>>>> df92c8b (Chore:Resolve Merge Conflicts)
-=======
->>>>>>> d0f3556 (Chore:Rebase master)
 
 ---
 [Contribute](..docs/Contributing.md). [CHANGELOG](..docs/CHANGELOG.md). [Docs](..docs/)
 >>>>>>> f2dd493 (Develop (#1))
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 30cc8c7 (Develop (#1))
-<<<<<<< HEAD
->>>>>>> 869ccc4 (Develop (#1))
-=======
-=======
-=======
->>>>>>> df92c8b (Chore:Resolve Merge Conflicts)
-=======
 # Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
@@ -291,7 +260,6 @@ _Documentation_
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md   )
->>>>>>> d0f3556 (Chore:Rebase master)
 # Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
@@ -315,11 +283,7 @@ _Projects_
 
 * RustAPI -A RESTful RustAPI.
 
-<<<<<<< HEAD
-* RustWebApp - A Rust_WASM WebApp (A Rust CrossPlatform App)
-=======
 * RustWebApp - A Rust_WASM WebApp (A Rust CrossPlatform App).
->>>>>>> d0f3556 (Chore:Rebase master)
 
 
 _Documentation_
@@ -337,20 +301,6 @@ _Documentation_
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
 <<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-* [References](.
->>>>>>> 7fc148c (Chore Rebase josephkb87-patch-5 develop)
->>>>>>> 3f33c37 (Chore:Update Cargo)
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-* [References](.
->>>>>>> 7fc148c (Chore Rebase josephkb87-patch-5 develop)
-=======
-=======
->>>>>>> d0f3556 (Chore:Rebase master)
 * [References](.# Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
@@ -392,37 +342,10 @@ _Documentation_
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
 * [References](.## Beginners 
-<<<<<<< HEAD
-
-Beginners, covers Rust Beginners Basics.
-
----
-#### Projects
-
--- QMLApp - A QT Rust App.
-
--- RustAPI -A RESTful RustAPI.
-
---  RustWebApp -A Rust_WASM WebApp 
-
----
-[Contribute](..docs/Contributing.md). [CHANGELOG](..docs/CHANGELOG.md). [Docs](..docs/)
->>>>>>> ad62b0a (Update README.md)
-=======
-* [References](.
->>>>>>> b71e4af (Create README.md)
-=======
-=======
->>>>>>> df92c8b (Chore:Resolve Merge Conflicts)
-* [References](.
-=======
-## Beginners 
-=======
 =======
 * [References](../docs/References.md   )
 ## Beginners 
 >>>>>>> 787d5a68c01e9ec278f3cac2e8ca6f31317d178a
->>>>>>> d0f3556 (Chore:Rebase master)
 
 Beginners, covers Rust Beginners Basics.
 
@@ -437,22 +360,5 @@ Beginners, covers Rust Beginners Basics.
 
 ---
 [Contribute](..docs/Contributing.md). [CHANGELOG](..docs/CHANGELOG.md). [Docs](..docs/)
-<<<<<<< HEAD
->>>>>>> 4e93fa6 (Create README.md)
-<<<<<<< HEAD
->>>>>>> 2b9416e (Chore:Resolve Merge Conflicts)
->>>>>>> d87cd10 (Chore:Resolve Merge Conflicts)
-=======
->>>>>>> 5b00d6e (Chore: Add build)
-=======
-=======
-
->>>>>>> d84c592 (Create README.md)
->>>>>>> 6f806f1 (Chore:Resolve Merge Conflicts)
->>>>>>> df92c8b (Chore:Resolve Merge Conflicts)
-=======
->>>>>>> 4801d3a (Chore:Rebase master)
-=======
 
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
->>>>>>> d0f3556 (Chore:Rebase master)
