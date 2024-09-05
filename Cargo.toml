@@ -5,6 +5,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -114,3 +115,39 @@ futures = "0.3"
 atk = "0.18.0" 
 atk-sys = ">= 0.18.0" 
 >>>>>>> 4801d3a (Chore:Rebase master)
+=======
+[package]
+name = "Beginners"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kiyini Joseph Balamazze"]
+
+
+[dependencies]
+regex = { git = "https://github.com/rust-lang/regex.git" }
+trunk = "0.20.3"
+actix = { version = "0.13.3" }
+chrono = "0.4"
+futures = "0.3"
+atk = "0.18.0" 
+atk-sys = ">= 0.18.0" 
+=======
+<<<<<<< HEAD
+s
+=======
+[package]
+name = "Beginners"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kiyini Joseph Balamazze"]
+
+
+[dependencies]
+regex = { git = "https://github.com/rust-lang/regex.git" }
+trunk = "0.20.3"
+actix = { version = "0.13.3" }
+chrono = "0.4"
+futures = "0.3"
+atk = "0.18.0" 
+atk-sys = ">= 0.18.0" 
+>>>>>>> c1475d1 (Chore:Rebase master)
