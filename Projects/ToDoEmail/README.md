@@ -423,10 +423,18 @@ How?
    serde_json = "1.0"
    ```
 
+<<<<<<< HEAD
 ## Implement the To-Do Application
 
 1. **Create the main logic in `src/main.rs`**:
 
+=======
+## Step 2: Implement the To-Do Application
+
+1. **Create the main logic in `src/main.rs`**:
+
+
+>>>>>>> 2938dda (Update Projects:ToDoEmailApp)
 ## Step 3: Run the Application
 
 1. **Build and run the application**:
@@ -443,7 +451,11 @@ How?
 
 To automate the script, you can use a task scheduler to run the application daily.
 
+<<<<<<< HEAD
 **On Unix-based Systems (Using `cron`)**
+=======
+**On Unix-based Systems (Using `cron`)**:
+>>>>>>> 2938dda (Update Projects:ToDoEmailApp)
 
 1. Open the cron table for editing:
    ```sh
@@ -465,6 +477,7 @@ To automate the script, you can use a task scheduler to run the application dail
    - Program/script: `C:\path\to\todo_email_app.exe
    - 
  ´´´´
+<<<<<<< HEAD
 
 _Docs_
 * [About Me](https://github.com/josephkb87)* [About Rust Beginners](../docs/README.md)
@@ -558,5 +571,13 @@ To automate the script, you can use a task scheduler to run the application dail
 =======
 =======
 * [References](../docs/References.md)
+<<<<<<< HEAD
 >>>>>>> ea61c03 (Chore:Rebase master)
+<<<<<<< HEAD
 >>>>>>> 8ffacc5 (Chore:Rebase master)
+=======
+=======
+=======
+>>>>>>> 2938dda (Update Projects:ToDoEmailApp)
+>>>>>>> d0f9240 (Chore:Rebase master)
+>>>>>>> 0529398 (Chore:Rebase master)
