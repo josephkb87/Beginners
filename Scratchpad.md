@@ -3,11 +3,17 @@
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 =======
 >>>>>>> 69bbc46 (Chore:Add AUTHORS)
+<<<<<<< HEAD
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
+=======
+=======
+>>>>>>> cc869c6 (Chore:Update cargo lock)
+>>>>>>> 691ff19 (Chore:Update cargo lock)
 # Beginners Scratchpad
 
 ## This  Beginner's Scratchpad is evidence of the work done on this repositrory.
@@ -311,10 +317,16 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
+=======
+=======
+>>>>>>> cc869c6 (Chore:Update cargo lock)
+>>>>>>> 691ff19 (Chore:Update cargo lock)
 =======
 # Beginners Scratchpad
 
@@ -620,10 +632,18 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 
 >>>>>>> 7fc148c (Chore Rebase josephkb87-patch-5 develop)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 691ff19 (Chore:Update cargo lock)
 =======
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 =======
 >>>>>>> 69bbc46 (Chore:Add AUTHORS)
+<<<<<<< HEAD
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
+=======
+=======
+>>>>>>> cc869c6 (Chore:Update cargo lock)
+>>>>>>> 691ff19 (Chore:Update cargo lock)
     ====
