@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 818d650 (Add files via upload)
 [package]
@@ -56,6 +57,8 @@ chrono = "0.4"
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 =======
 >>>>>>> 7ba5151 (Chore:Update Cargo)
+=======
+>>>>>>> 4801d3a (Chore:Rebase master)
 [package]
 name = "todo_email_app"
 version = "0.1.0"
@@ -86,6 +89,7 @@ chrono = "0.4"
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 =======
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
@@ -307,6 +311,8 @@ chrono = "0.4"
 =======
 =======
 =======
+>>>>>>> 4801d3a (Chore:Rebase master)
+=======
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 [package]
 name = "todo_email_app"
@@ -341,8 +347,11 @@ edition = "2021"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> a9cd9ea (Chore:Rebase master)
+=======
+>>>>>>> 4801d3a (Chore:Rebase master)
 [dependencies]
 chrono = "0.4"
    lettre = { version = "0.10.0-rc.4", features = ["smtp-tokio", "builder"] }
@@ -398,6 +407,7 @@ chrono = "0.4"
 =======
 >>>>>>> 3118847 (Update Projects:ToDoEmailApp)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> a9cd9ea (Chore:Rebase master)
 <<<<<<< HEAD
 >>>>>>> 07b1d87 (Chore:Rebase master)
@@ -410,18 +420,28 @@ chrono = "0.4"
 =======
 =======
 >>>>>>> 34118f8 (Chore:Update Cargo)
+=======
+=======
+=======
+>>>>>>> 4801d3a (Chore:Rebase master)
 [package]
 name = "todo_email_app"
 version = "0.1.0"
 edition = "2021"
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4801d3a (Chore:Rebase master)
 [dependencies]
 chrono = "0.4"
    lettre = { version = "0.10.0-rc.4", features = ["smtp-tokio", "builder"] }
    serde = { version = "1.0", features = ["derive"] }
    serde_json = "1.0"
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4801d3a (Chore:Rebase master)
 <<<<<<< HEAD
 
 [package]
@@ -438,6 +458,7 @@ chrono = "0.4"
 >>>>>>> 787d5a68c01e9ec278f3cac2e8ca6f31317d178a
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 4801d3a (Chore:Rebase master)
 <<<<<<< HEAD
@@ -476,3 +497,5 @@ chrono = "0.4"
 =======
 >>>>>>> 3118847 (Update Projects:ToDoEmailApp)
 >>>>>>> a9cd9ea (Chore:Rebase master)
+=======
+>>>>>>> 4801d3a (Chore:Rebase master)

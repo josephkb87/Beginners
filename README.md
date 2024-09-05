@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 2b9416e (Chore:Resolve Merge Conflicts)
 =======
@@ -10,6 +11,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> df92c8b (Chore:Resolve Merge Conflicts)
+=======
+>>>>>>> 4801d3a (Chore:Rebase master)
 # Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
@@ -103,9 +106,8 @@ _Documentation_
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md   )
-=======
-## Beginners 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 Beginners, covers Rust Beginners Basics.
 
@@ -317,3 +319,5 @@ Beginners, covers Rust Beginners Basics.
 >>>>>>> d84c592 (Create README.md)
 >>>>>>> 6f806f1 (Chore:Resolve Merge Conflicts)
 >>>>>>> df92c8b (Chore:Resolve Merge Conflicts)
+=======
+>>>>>>> 4801d3a (Chore:Rebase master)

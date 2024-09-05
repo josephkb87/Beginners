@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 _RustWebApp_
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -79,6 +80,8 @@ _Docs_
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 =======
 >>>>>>> 7c54f14 (Chore:Update Cargo)
+=======
+>>>>>>> 4801d3a (Chore:Rebase master)
 _RustWebApp_
 
 <<<<<<< HEAD
@@ -126,6 +129,7 @@ _Docs_
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 =======
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
@@ -334,6 +338,10 @@ _Docs_
 =======
 =======
 >>>>>>> 7c54f14 (Chore:Update Cargo)
+=======
+=======
+>>>>>>> d18c8f8 (Chore:Add AUTHORS.)
+>>>>>>> 4801d3a (Chore:Rebase master)
 _RustWebApp_
 A cross-platform desktop app made desktop using Rust, SolidJS, and Tauri.
 
@@ -389,6 +397,7 @@ _Docs_
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 743dace (Chore:Resolve Merge Conflicts)
 <<<<<<< HEAD
 >>>>>>> 7c54f14 (Chore:Update Cargo)
@@ -399,6 +408,9 @@ _Docs_
 =======
 =======
 =======
+=======
+>>>>>>> 743dace (Chore:Resolve Merge Conflicts)
+>>>>>>> 4801d3a (Chore:Rebase master)
 =======
 =======
 _RustWebApp_
@@ -444,6 +456,7 @@ _Docs_
 
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
+<<<<<<< HEAD
 >>>>>>> 4801d3a (Chore:Rebase master)
 >>>>>>> d2feec9 (Chore:Update cargo)
 >>>>>>> b3d100b (Chore:Update cargo)
@@ -452,3 +465,5 @@ _Docs_
 =======
 >>>>>>> 743dace (Chore:Resolve Merge Conflicts)
 >>>>>>> 7c54f14 (Chore:Update Cargo)
+=======
+>>>>>>> 4801d3a (Chore:Rebase master)

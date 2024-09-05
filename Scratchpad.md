@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -39,6 +40,10 @@
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 =======
 >>>>>>> 3f33c37 (Chore:Update Cargo)
+=======
+=======
+>>>>>>> d18c8f8 (Chore:Add AUTHORS.)
+>>>>>>> 4801d3a (Chore:Rebase master)
 # Beginners Scratchpad
 
 ## This  Beginner's Scratchpad is evidence of the work done on this repositrory.
@@ -347,6 +352,9 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4801d3a (Chore:Rebase master)
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -679,6 +687,7 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 691ff19 (Chore:Update cargo lock)
@@ -719,4 +728,8 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 =======
 >>>>>>> 7fc148c (Chore Rebase josephkb87-patch-5 develop)
 >>>>>>> 3f33c37 (Chore:Update Cargo)
+=======
+=======
+>>>>>>> d18c8f8 (Chore:Add AUTHORS.)
+>>>>>>> 4801d3a (Chore:Rebase master)
     ====
