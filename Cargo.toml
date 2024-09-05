@@ -8,9 +8,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 58bf9c0 (Chore:Resolve Merge Conflicts)
+=======
+>>>>>>> 8ffacc5 (Chore:Rebase master)
 
 =======
 =======
@@ -31,7 +34,12 @@ s
 
 >>>>>>> 57b9364 (Chore:Resolve Merge Conflicts)
 >>>>>>> 9f4bfa6 (Chore:Resolve Merge Conflicts)
+<<<<<<< HEAD
 >>>>>>> 58bf9c0 (Chore:Resolve Merge Conflicts)
+=======
+=======
+>>>>>>> ea61c03 (Chore:Rebase master)
+>>>>>>> 8ffacc5 (Chore:Rebase master)
 [package]
 name = "Beginners"
 version = "0.1.0"
