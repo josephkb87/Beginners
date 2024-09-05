@@ -15,6 +15,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -45,10 +46,17 @@ s
 =======
 >>>>>>> 9f4bfa6 (Chore:Resolve Merge Conflicts)
 =======
+=======
+
+=======
+<<<<<<< HEAD
+>>>>>>> bd663f2 (Chore:Update cargo)
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 s
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 9f12a31 (Update Cargo.toml)
 =======
@@ -124,6 +132,10 @@ s
 >>>>>>> 5ad3e0d (Chore:Update Cargo)
 =======
 >>>>>>> d9e7628 (Chore:Rebase patch01 master)
+=======
+>>>>>>> 9f12a31 (Update Cargo.toml)
+>>>>>>> e8c2350 (Chore:Update cargo)
+>>>>>>> bd663f2 (Chore:Update cargo)
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -137,6 +149,7 @@ trunk = "0.20.3"
 actix = { version = "0.13.3" }
 chrono = "0.4"
 futures = "0.3"
+<<<<<<< HEAD
 atk = "0.18.0" 
 <<<<<<< HEAD
 atk-sys = ">= 0.18.0" 
@@ -202,6 +215,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Kiyini Joseph Balamazze"]
 
+<<<<<<< HEAD
 
 [dependencies]
 regex = { git = "https://github.com/rust-lang/regex.git" }
@@ -342,4 +356,17 @@ atk = "0.18.0"
 atk-sys = ">= 0.18.0" 
 
 >>>>>>> 55e1698 (Chore:Rebase patch01 master)
+<<<<<<< HEAD
 >>>>>>> d9e7628 (Chore:Rebase patch01 master)
+=======
+=======
+=======
+atk = ">= 0.1.0" 
+atk-sys = ">= 0.18.0" 
+=======
+s
+>>>>>>> 255ed2f (Update cargo.toml)
+>>>>>>> b41c519 (Update Cargo.toml)
+>>>>>>> 9f12a31 (Update Cargo.toml)
+>>>>>>> e8c2350 (Chore:Update cargo)
+>>>>>>> bd663f2 (Chore:Update cargo)
