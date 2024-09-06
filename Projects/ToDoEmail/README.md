@@ -142,6 +142,7 @@ _Docs_
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
+<<<<<<< HEAD
 * [References](../docs/References.md)
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -270,4 +271,10 @@ _Docs_
 =======
 =======
 >>>>>>> 0841a7f (Update Projects:ToDoEmailApp)
+<<<<<<< HEAD
 >>>>>>> da2364f (Update Projects:ToDoEmailApp)
+=======
+=======
+* [References](../docs/References.md)
+>>>>>>> 68b0f92 (Update Projects:ToDoEmailApp)
+>>>>>>> 33288bd (Update Projects:ToDoEmailApp)
