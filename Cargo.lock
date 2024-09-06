@@ -9,7 +9,9 @@ name = "Beginners"
 version = "0.1.0"
 dependencies = [
  "actix",
+<<<<<<< HEAD
  "atk",
+<<<<<<< HEAD
 <<<<<<< HEAD
  "chrono",
  "futures",
@@ -267,6 +269,11 @@ dependencies = [
  "chrono",
  "futures",
  "atk",
+=======
+=======
+>>>>>>> 4d9a9da (Update cargo.toml)
+ "atk-sys",
+>>>>>>> 9780232 (Chore:Update cargo)
  "chrono",
  "futures",
  "regex 1.10.4 (git+https://github.com/rust-lang/regex.git)",
