@@ -331,6 +331,7 @@ _Docs_
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
 <<<<<<< HEAD
+<<<<<<< HEAD
 * [References](../docs/References.md)TO DO EMAIL App
 
 W
@@ -407,6 +408,8 @@ To automate the script, you can use a task scheduler to run the application dail
 >>>>>>> 820281c (Chore:Resolve Merge Conflicts)
 >>>>>>> 7ba5151 (Chore:Update Cargo)
 =======
+=======
+>>>>>>> 8a59b79 (Chore:Update directory)
 * [References](../docs/References.md)
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -556,5 +559,14 @@ _Docs_
 =======
 =======
 >>>>>>> 0841a7f (Update Projects:ToDoEmailApp)
+<<<<<<< HEAD
 >>>>>>> da2364f (Update Projects:ToDoEmailApp)
+<<<<<<< HEAD
 >>>>>>> 0f1fe9b (Chore:Update directory)
+=======
+=======
+=======
+* [References](../docs/References.md)
+>>>>>>> 68b0f92 (Update Projects:ToDoEmailApp)
+>>>>>>> 33288bd (Update Projects:ToDoEmailApp)
+>>>>>>> 8a59b79 (Chore:Update directory)
