@@ -352,6 +352,7 @@ _Projects_
 
 
 =======
+<<<<<<< HEAD
 =======
 =======
 ## Beginners 
@@ -383,7 +384,12 @@ _Projects_
 
 
 >>>>>>> ba91f8a (Chore:Rebase master)
+<<<<<<< HEAD
 >>>>>>> 1f58bc3 (Chore:Rebase master)
+=======
+=======
+>>>>>>> 266edc0 (Chore:Update Cargo)
+>>>>>>> dcb2864 (Chore:Update directory)
 _Documentation_
 
 * [Docs](..docs/)
@@ -402,6 +408,7 @@ _Documentation_
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 * [References](.
 >>>>>>> 7fc148c (Chore Rebase josephkb87-patch-5 develop)
 >>>>>>> 3f33c37 (Chore:Update Cargo)
@@ -416,14 +423,19 @@ _Documentation_
 >>>>>>> d0f3556 (Chore:Rebase master)
 =======
 >>>>>>> 1f58bc3 (Chore:Rebase master)
+=======
+>>>>>>> dcb2864 (Chore:Update directory)
 * [References](.# Rust Beginners
 =======
+=======
+>>>>>>> 266edc0 (Chore:Update Cargo)
 * [References](../docs/References.md   )
 
 
 ---
 [Contribute](..docs/Contributing.md). [CHANGELOG](..docs/CHANGELOG.md). [Docs](..docs/)
 >>>>>>> f2dd493 (Develop (#1))
+<<<<<<< HEAD
 # Rust Beginners
 >>>>>>> ba91f8a (Chore:Rebase master)
 
@@ -861,6 +873,8 @@ Beginners, covers Rust Beginners Basics.
 >>>>>>> 766a893 (Update README.md)
 =======
 >>>>>>> f2dd493 (Develop (#1))
+=======
+>>>>>>> 266edc0 (Chore:Update Cargo)
 <<<<<<< HEAD
 >>>>>>> 30cc8c7 (Develop (#1))
 =======
@@ -904,6 +918,7 @@ _Documentation_
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
+<<<<<<< HEAD
 <<<<<<< HEAD
 * [References](.
 >>>>>>> 7fc148c (Chore Rebase josephkb87-patch-5 develop)
@@ -1012,3 +1027,8 @@ In this Beginners repository, we cover Rust Beginners Basics.
 =======
 
 >>>>>>> 03c8334 (Chore:Rebase master)
+=======
+* [References](.
+>>>>>>> 7fc148c (Chore Rebase josephkb87-patch-5 develop)
+>>>>>>> 48b52ff (Chore:Update Cargo)
+>>>>>>> 266edc0 (Chore:Update Cargo)
