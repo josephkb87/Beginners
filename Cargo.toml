@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 [package]
@@ -20,11 +21,28 @@ actix = { version = "0.13.3" }
 chrono = "0.4"
 futures = "0.3"
 atk = "0.18.0" 
+=======
+[package]
+name = "Beginners"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kiyini Joseph Balamazze"]
+
+
+[dependencies]
+regex = { git = "https://github.com/rust-lang/regex.git" }
+trunk = "0.20.3"
+actix = { version = "0.13.3" }
+chrono = "0.4"
+futures = "0.3"
+atk = "0.18.0" 
+>>>>>>> ba086fe (Chore:Update directory)
 atk-sys = ">= 0.18.0" 
 =======
 <<<<<<< HEAD
 s
 =======
+<<<<<<< HEAD
 =======
 
 >>>>>>> 7c54f14 (Chore:Update Cargo)
@@ -45,6 +63,8 @@ s
 >>>>>>> 9f4bfa6 (Chore:Resolve Merge Conflicts)
 =======
 >>>>>>> ea61c03 (Chore:Rebase master)
+=======
+>>>>>>> ba086fe (Chore:Update directory)
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -58,6 +78,7 @@ trunk = "0.20.3"
 actix = { version = "0.13.3" }
 chrono = "0.4"
 futures = "0.3"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -93,3 +114,13 @@ s
 >>>>>>> 9f4bfa6 (Chore:Resolve Merge Conflicts)
 =======
 >>>>>>> 9b513a3 (Chore:Update Merge Conflicts)
+=======
+atk = "0.18.0" 
+atk-sys = ">= 0.18.0" 
+>>>>>>> a0cf675 (Update Cargo.toml)
+=======
+atk >= = ">= 2.28" 
+atk-sys = "v0.18.0" 
+>>>>>>> 4d9a9da (Update cargo.toml)
+>>>>>>> 9780232 (Chore:Update cargo)
+>>>>>>> ba086fe (Chore:Update directory)
