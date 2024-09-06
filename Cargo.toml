@@ -90,6 +90,7 @@ chrono = "0.4"
 futures = "0.3"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 atk = "0.18.0" 
 <<<<<<< HEAD
 =======
@@ -270,6 +271,17 @@ atk-sys = ">= 0.18.0"
 =======
 =======
 =======
+=======
+futures = "0.3"
+<<<<<<< HEAD
+<<<<<<< HEAD
+atk = "0.18.0" 
+atk-sys = ">= 0.18.0" 
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+>>>>>>> b3d100b (Chore:Update cargo)
+=======
 atk = ">= 0.1.0" 
 =======
 atk = "0.18.0" 
@@ -283,18 +295,48 @@ s
 <<<<<<< HEAD
 >>>>>>> 9f12a31 (Update Cargo.toml)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> e8c2350 (Chore:Update cargo)
 <<<<<<< HEAD
 >>>>>>> bd663f2 (Chore:Update cargo)
 =======
 =======
 =======
+>>>>>>> b3d100b (Chore:Update cargo)
+=======
 =======
 
 >>>>>>> 57b9364 (Chore:Resolve Merge Conflicts)
 >>>>>>> 9f4bfa6 (Chore:Resolve Merge Conflicts)
+<<<<<<< HEAD
 >>>>>>> 58bf9c0 (Chore:Resolve Merge Conflicts)
 >>>>>>> 61a47de (Chore:Update directory)
 =======
 futures = "0.3"
 >>>>>>> 86d94cd (Chore:Update directory)
+=======
+=======
+>>>>>>> 9b513a3 (Chore:Update Merge Conflicts)
+=======
+=======
+<<<<<<< HEAD
+s
+=======
+[package]
+name = "Beginners"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kiyini Joseph Balamazze"]
+
+
+[dependencies]
+regex = { git = "https://github.com/rust-lang/regex.git" }
+trunk = "0.20.3"
+actix = { version = "0.13.3" }
+chrono = "0.4"
+futures = "0.3"
+atk = "0.18.0" 
+atk-sys = ">= 0.18.0" 
+>>>>>>> 4801d3a (Chore:Rebase master)
+>>>>>>> d2feec9 (Chore:Update cargo)
+>>>>>>> b3d100b (Chore:Update cargo)

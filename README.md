@@ -1,8 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 381da28 (Chore:Update directory)
+=======
+>>>>>>> b3d100b (Chore:Update cargo)
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -18,7 +21,12 @@
 =======
 >>>>>>> 2b9416e (Chore:Resolve Merge Conflicts)
 >>>>>>> 62121c2 (Chore:Update cargo)
+<<<<<<< HEAD
 >>>>>>> 381da28 (Chore:Update directory)
+=======
+=======
+>>>>>>> d2feec9 (Chore:Update cargo)
+>>>>>>> b3d100b (Chore:Update cargo)
 # Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
@@ -71,7 +79,10 @@ _Documentation_
 <<<<<<< HEAD
 * [References](../docs/References.md   )
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> b3d100b (Chore:Update cargo)
 
 =======
 # Rust Beginners Basics.
@@ -514,4 +525,10 @@ In this Beginners repository, we cover Rust Beginners Basics.
 >>>>>>> 4e93fa6 (Create README.md)
 >>>>>>> 2b9416e (Chore:Resolve Merge Conflicts)
 >>>>>>> 62121c2 (Chore:Update cargo)
+<<<<<<< HEAD
 >>>>>>> 381da28 (Chore:Update directory)
+=======
+=======
+
+>>>>>>> d2feec9 (Chore:Update cargo)
+>>>>>>> b3d100b (Chore:Update cargo)
