@@ -408,6 +408,12 @@ Enthusiasts, Users, Programmers, interested in making their daily to do list eas
 
 How? 
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+## Step 1: Set Up Your Rust Project
+
+>>>>>>> 3118847 (Update Projects:ToDoEmailApp)
 1. **Create a new Rust project**:
    ```sh
    cargo new todo_email_app
@@ -478,8 +484,14 @@ To automate the script, you can use a task scheduler to run the application dail
    - 
  ´´´´
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 _Docs_
+=======
+=======
+_Docs_
+
+>>>>>>> 3118847 (Update Projects:ToDoEmailApp)
 * [About Me](https://github.com/josephkb87)* [About Rust Beginners](../docs/README.md)
 * [Rust Worked Examples](https://github.com/josephkb87/Beginners/tree/main/RustWorkedExamples/README.md)
 * [Rust Projects](https://github.com/josephkb87/RustBeginners/tree/main/Projects/README.md)
@@ -572,6 +584,7 @@ To automate the script, you can use a task scheduler to run the application dail
 =======
 * [References](../docs/References.md)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> ea61c03 (Chore:Rebase master)
 <<<<<<< HEAD
 >>>>>>> 8ffacc5 (Chore:Rebase master)
@@ -580,4 +593,14 @@ To automate the script, you can use a task scheduler to run the application dail
 =======
 >>>>>>> 2938dda (Update Projects:ToDoEmailApp)
 >>>>>>> d0f9240 (Chore:Rebase master)
+<<<<<<< HEAD
 >>>>>>> 0529398 (Chore:Rebase master)
+=======
+=======
+=======
+>>>>>>> 2938dda (Update Projects:ToDoEmailApp)
+=======
+>>>>>>> 68b0f92 (Update Projects:ToDoEmailApp)
+>>>>>>> 3118847 (Update Projects:ToDoEmailApp)
+>>>>>>> a9cd9ea (Chore:Rebase master)
+>>>>>>> 07b1d87 (Chore:Rebase master)
