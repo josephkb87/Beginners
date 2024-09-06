@@ -46,8 +46,11 @@ _Docs_
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 _RustWebApp_
 <<<<<<< HEAD
+<<<<<<< HEAD
 A cross-platform desktop app made desktop using Rust, SolidJS, and Tauri.
 =======
+=======
+>>>>>>> 330a836 (Update README.md)
 <<<<<<< HEAD
 
 RustWebApp is A cross-platform desktop app made desktop using Rust, SolidJS, and Tauri.
@@ -91,6 +94,10 @@ Contrary to the idea that using the main DOM slows down an application, it is pa
 =======
 =======
 A cross-platform desktop app made desktop using Rust, SolidJS, and Tauri.
+=======
+
+RustWebApp is A cross-platform desktop app made desktop using Rust, SolidJS, and Tauri.
+>>>>>>> e94e33e (Update README.md)
 
 _Tauri_
 
