@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 90f3613 (Chore:Rebase master)
 =======
@@ -338,6 +339,9 @@ futures = "0.3"
 s
 =======
 [package]
+=======
+package]
+>>>>>>> 7d9091a (Chore:UpdateCArgo)
 name = "Beginners"
 version = "0.1.0"
 edition = "2021"
@@ -351,6 +355,7 @@ actix = { version = "0.13.3" }
 chrono = "0.4"
 futures = "0.3"
 atk = "0.18.0" 
+<<<<<<< HEAD
 atk-sys = ">= 0.18.0" 
 >>>>>>> 4801d3a (Chore:Rebase master)
 <<<<<<< HEAD
@@ -407,3 +412,6 @@ atk-sys = ">= 0.18.0"
 >>>>>>> d0f3556 (Chore:Rebase master)
 >>>>>>> ba91f8a (Chore:Rebase master)
 >>>>>>> 1f58bc3 (Chore:Rebase master)
+=======
+atk-sys = ">= 0.18.0" 
+>>>>>>> 7d9091a (Chore:UpdateCArgo)
