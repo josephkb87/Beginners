@@ -116,6 +116,7 @@ Beginning Programming languages.Applies to programming language design fundament
 <<<<<<< HEAD
 >>>>>>> a733709 (Create README.md)
 =======
+<<<<<<< HEAD
 =======
 =======
 ## Beginners 
@@ -147,6 +148,8 @@ _Projects_
 
 
 >>>>>>> ba91f8a (Chore:Rebase master)
+=======
+>>>>>>> 266edc0 (Chore:Update Cargo)
 _Documentation_
 
 * [Docs](..docs/)
@@ -163,14 +166,18 @@ _Documentation_
 * [LICENSE](../LICENSE.md)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 * [References](.# Rust Beginners
 =======
+=======
+>>>>>>> 266edc0 (Chore:Update Cargo)
 * [References](../docs/References.md   )
 
 
 ---
 [Contribute](..docs/Contributing.md). [CHANGELOG](..docs/CHANGELOG.md). [Docs](..docs/)
 >>>>>>> f2dd493 (Develop (#1))
+<<<<<<< HEAD
 # Rust Beginners
 >>>>>>> ba91f8a (Chore:Rebase master)
 
@@ -547,6 +554,8 @@ Beginners, covers Rust Beginners Basics.
 =======
 =======
 >>>>>>> f2dd493 (Develop (#1))
+=======
+>>>>>>> 266edc0 (Chore:Update Cargo)
 <<<<<<< HEAD
 >>>>>>> 30cc8c7 (Develop (#1))
 =======
@@ -590,6 +599,7 @@ _Documentation_
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
+<<<<<<< HEAD
 <<<<<<< HEAD
 * [References](.
 >>>>>>> 7fc148c (Chore Rebase josephkb87-patch-5 develop)
@@ -710,4 +720,12 @@ In this Beginners repository, we cover Rust Beginners Basics.
 =======
 
 >>>>>>> 03c8334 (Chore:Rebase master)
+<<<<<<< HEAD
 >>>>>>> 577fd56 (Chore:Rebase master)
+=======
+=======
+* [References](.
+>>>>>>> 7fc148c (Chore Rebase josephkb87-patch-5 develop)
+>>>>>>> 48b52ff (Chore:Update Cargo)
+>>>>>>> 266edc0 (Chore:Update Cargo)
+>>>>>>> dcb2864 (Chore:Update directory)
