@@ -3,7 +3,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
+=======
+<<<<<<< HEAD
+>>>>>>> 7d837f7 (Chore:Update directory)
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -103,4 +107,9 @@ atk-sys = ">= 0.18.0"
 >>>>>>> 787d5a68c01e9ec278f3cac2e8ca6f31317d178a
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 >>>>>>> 69bbc46 (Chore:Add AUTHORS)
+<<<<<<< HEAD
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
+=======
+=======
+>>>>>>> 766a893 (Update README.md)
+>>>>>>> 7d837f7 (Chore:Update directory)
