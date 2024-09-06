@@ -18,6 +18,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -88,6 +89,8 @@ s
 >>>>>>> ea61c03 (Chore:Rebase master)
 >>>>>>> 8ffacc5 (Chore:Rebase master)
 >>>>>>> 3cdea5e (Chore:Rebase master)
+=======
+>>>>>>> 86d94cd (Chore:Update directory)
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -100,6 +103,7 @@ regex = { git = "https://github.com/rust-lang/regex.git" }
 trunk = "0.20.3"
 actix = { version = "0.13.3" }
 chrono = "0.4"
+<<<<<<< HEAD
 futures = "0.3"
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -433,3 +437,6 @@ s
 >>>>>>> 9f4bfa6 (Chore:Resolve Merge Conflicts)
 >>>>>>> 58bf9c0 (Chore:Resolve Merge Conflicts)
 >>>>>>> 61a47de (Chore:Update directory)
+=======
+futures = "0.3"
+>>>>>>> 86d94cd (Chore:Update directory)
