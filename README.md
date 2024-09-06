@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -670,3 +671,12 @@ In this Beginners repository, we cover Rust Beginners Basics.
 >>>>>>> 7fc148c (Chore Rebase josephkb87-patch-5 develop)
 >>>>>>> 48b52ff (Chore:Update Cargo)
 >>>>>>> 266edc0 (Chore:Update Cargo)
+=======
+Rust Beginners covers Rust Beginners Basics;
+
+Includes Projects;
+
+- Rust WebApp(Basic Rust CrossPlatform Real Estate App).
+- QML App.
+- RustAPI(A Rust_RESTfulAPI)
+>>>>>>> josephkb87-patch-4
