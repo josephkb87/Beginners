@@ -8,6 +8,7 @@ chrono = "0.4"
    lettre = { version = "0.10.0-rc.4", features = ["smtp-tokio", "builder"] }
    serde = { version = "1.0", features = ["derive"] }
    serde_json = "1.0"
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 [package]
@@ -22,3 +23,5 @@ chrono = "0.4"
    serde_json = "1.0"
 =======
 >>>>>>> 39affb5 (Add files via upload)
+=======
+>>>>>>> 818d650 (Add files via upload)

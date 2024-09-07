@@ -1,7 +1,11 @@
 TO DO EMAIL App
 
+<<<<<<< HEAD
 W
 Xhat?
+=======
+What?
+>>>>>>> 818d650 (Add files via upload)
 We create a TO DO App that sends the to do list to an email.
 
 Why?
@@ -29,10 +33,18 @@ How?
    serde_json = "1.0"
    ```
 
+<<<<<<< HEAD
 ## Implement the To-Do Application
 
 1. **Create the main logic in `src/main.rs`**:
 
+=======
+## Step 2: Implement the To-Do Application
+
+1. **Create the main logic in `src/main.rs`**:
+
+
+>>>>>>> 818d650 (Add files via upload)
 ## Step 3: Run the Application
 
 1. **Build and run the application**:
@@ -49,7 +61,11 @@ How?
 
 To automate the script, you can use a task scheduler to run the application daily.
 
+<<<<<<< HEAD
 **On Unix-based Systems (Using `cron`)**
+=======
+**On Unix-based Systems (Using `cron`)**:
+>>>>>>> 818d650 (Add files via upload)
 
 1. Open the cron table for editing:
    ```sh
@@ -70,6 +86,7 @@ To automate the script, you can use a task scheduler to run the application dail
    - Action: Start a program
    - Program/script: `C:\path\to\todo_email_app.exe
    - 
+<<<<<<< HEAD
  ´´´´
 <<<<<<< HEAD
 TO DO EMAIL App
@@ -100,3 +117,6 @@ _Docs_
 * [References](../docs/References.md)
 =======
 >>>>>>> 39affb5 (Add files via upload)
+=======
+ ´´´´
+>>>>>>> 818d650 (Add files via upload)
