@@ -1,12 +1,10 @@
 <<<<<<< HEAD
 TO DO EMAIL App
 
-<<<<<<< HEAD
-W
-Xhat?
-=======
+
 What?
 >>>>>>> 818d650 (Add files via upload)
+
 We create a TO DO App that sends the to do list to an email.
 
 Why?
