@@ -92,6 +92,7 @@ futures = "0.3"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 atk >= = ">= 2.28" 
 atk-sys = "v0.18.0" 
 >>>>>>> 851dcee (Update cargo.toml)
@@ -127,11 +128,16 @@ s
 =======
 =======
 >>>>>>> ba086fe (Chore:Update directory)
+=======
+>>>>>>> e301f13 (Update cargo.toml)
 atk = "0.18.0" 
 atk-sys = ">= 0.18.0" 
 >>>>>>> a0cf675 (Update Cargo.toml)
 =======
 atk >= = ">= 2.28" 
+=======
+atk = ">= 2.28" 
+>>>>>>> ed11267 (Update cargo.toml)
 atk-sys = "v0.18.0" 
 >>>>>>> 4d9a9da (Update cargo.toml)
 >>>>>>> 9780232 (Chore:Update cargo)
