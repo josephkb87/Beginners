@@ -40,6 +40,7 @@ dependencies = [
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  "atk",
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4811,6 +4812,8 @@ name = "Beginners"
 version = "0.1.0"
 dependencies = [
  "actix",
+=======
+>>>>>>> e0ee37d (Update cargo.toml)
  "atk",
  "atk-sys",
  "chrono",
