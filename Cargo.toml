@@ -12,3 +12,4 @@ actix = { version = "0.13.3" }
 chrono = "0.4"
 atk = "0.18.0" 
 atk-sys = ">= 0.18.0" 
+cxx-qt = "0.6.1"
