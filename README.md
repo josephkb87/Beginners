@@ -16,14 +16,15 @@ Rust is a challenging choice, but worth to be chosen. It has strong memory-safet
 This Rust Beginners repository does not teach programming, nor even to teach Rust Pogramming. 
 Rather, it is intended to serve as a guide to provide a gentle introduction to Rust for someone who has or doesnot have experience with at least one other language, preferably a functional language.
 
-_Projects_
+_[Projects](https://github.com/josephkb87/Beginners/tree/master/Projects)_
 
-* QMLApp - A QT Rust App.
+* [QMLApp](https://github.com/josephkb87/Beginners/tree/master/Projects/QMLAppl) - A QT Rust App.
 
-* RustAPI -A RESTful RustAPI.
+* [RustAPI](https://github.com/josephkb87/Beginners/tree/master/Projects/RustAPI/restful-rustapi) - A RESTful RustAPI.
 
-* RustWebApp - A Rust_WASM WebApp (A Rust CrossPlatform App).
+* [RustWebApp](https://github.com/josephkb87/Beginners/tree/master/Projects/RustWebApp) - A Rust_WASM WebApp (A Rust CrossPlatform App).
 
+* [To Do Email](https://github.com/josephkb87/Beginners/tree/master/Projects/ToDoEmail)
 
 _Documentation_
 
