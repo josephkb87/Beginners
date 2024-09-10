@@ -81,11 +81,14 @@ _Documentation_
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> b3d100b (Chore:Update cargo)
 =======
 >>>>>>> 1f58bc3 (Chore:Rebase master)
+=======
+>>>>>>> 577fd56 (Chore:Rebase master)
 
 =======
 # Rust Beginners Basics.
@@ -701,4 +704,10 @@ In this Beginners repository, we cover Rust Beginners Basics.
 
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 >>>>>>> ba91f8a (Chore:Rebase master)
+<<<<<<< HEAD
 >>>>>>> 1f58bc3 (Chore:Rebase master)
+=======
+=======
+
+>>>>>>> 03c8334 (Chore:Rebase master)
+>>>>>>> 577fd56 (Chore:Rebase master)
