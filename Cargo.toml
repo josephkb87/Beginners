@@ -9,6 +9,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
 =======
 <<<<<<< HEAD
@@ -26,19 +27,37 @@
 <<<<<<< HEAD
 >>>>>>> d9e7628 (Chore:Rebase patch01 master)
 =======
+=======
+>>>>>>> 61a47de (Chore:Update directory)
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> 58bf9c0 (Chore:Resolve Merge Conflicts)
 
 =======
+=======
+>>>>>>> 9f4bfa6 (Chore:Resolve Merge Conflicts)
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
 s
 =======
+<<<<<<< HEAD
 >>>>>>> 9f12a31 (Update Cargo.toml)
+<<<<<<< HEAD
 >>>>>>> e8c2350 (Chore:Update cargo)
+<<<<<<< HEAD
 >>>>>>> bd663f2 (Chore:Update cargo)
+=======
+=======
+=======
+=======
+
+>>>>>>> 57b9364 (Chore:Resolve Merge Conflicts)
+>>>>>>> 9f4bfa6 (Chore:Resolve Merge Conflicts)
+>>>>>>> 58bf9c0 (Chore:Resolve Merge Conflicts)
+>>>>>>> 61a47de (Chore:Update directory)
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -52,6 +71,7 @@ trunk = "0.20.3"
 actix = { version = "0.13.3" }
 chrono = "0.4"
 futures = "0.3"
+<<<<<<< HEAD
 <<<<<<< HEAD
 atk = "0.18.0" 
 <<<<<<< HEAD
@@ -223,11 +243,27 @@ atk-sys = ">= 0.18.0"
 =======
 =======
 atk = ">= 0.1.0" 
+=======
+atk = "0.18.0" 
+>>>>>>> 9f4bfa6 (Chore:Resolve Merge Conflicts)
 atk-sys = ">= 0.18.0" 
+<<<<<<< HEAD
 =======
 s
 >>>>>>> 255ed2f (Update cargo.toml)
 >>>>>>> b41c519 (Update Cargo.toml)
+<<<<<<< HEAD
 >>>>>>> 9f12a31 (Update Cargo.toml)
+<<<<<<< HEAD
 >>>>>>> e8c2350 (Chore:Update cargo)
+<<<<<<< HEAD
 >>>>>>> bd663f2 (Chore:Update cargo)
+=======
+=======
+=======
+=======
+
+>>>>>>> 57b9364 (Chore:Resolve Merge Conflicts)
+>>>>>>> 9f4bfa6 (Chore:Resolve Merge Conflicts)
+>>>>>>> 58bf9c0 (Chore:Resolve Merge Conflicts)
+>>>>>>> 61a47de (Chore:Update directory)
