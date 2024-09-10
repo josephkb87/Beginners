@@ -24,7 +24,6 @@ _Projects_
 
 * RustWebApp - A Rust_WASM WebApp (A Rust CrossPlatform App).
 
-
 _Documentation_
 
 * [Docs](..docs/)
@@ -41,3 +40,4 @@ _Documentation_
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
 * [References](../docs/references.md)
+
