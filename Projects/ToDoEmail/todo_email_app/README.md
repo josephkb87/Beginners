@@ -11,8 +11,6 @@ Enthusiasts, Users, Programmers, interested in making their daily to do list eas
 
 How? 
 
-## Step 1: Set Up Your Rust Project
-
 1. **Create a new Rust project**:
    ```sh
    cargo new todo_email_app
@@ -28,13 +26,49 @@ How?
    serde_json = "1.0"
    ```
 
-## Step 2: Implement the To-Do Application
+## Implement the To-Do Application
 
 1. **Create the main logic in `src/main.rs`**:
 
+## Step 3: Run the Application
 
+1. **Build and run the application**:
+   ```sh
+   cargo run
+   ```
 
- _Docs_
+2. **Use the application**:
+   - Add To-Do items by selecting option 1 and entering descriptions.
+   - Send the To-Do list via email by selecting option 2.
+   - Exit the application by selecting option 3.
+
+## Step 4: Automate the Script
+
+To automate the script, you can use a task scheduler to run the application daily.
+
+**On Unix-based Systems (Using `cron`)**
+
+1. Open the cron table for editing:
+   ```sh
+   crontab -e
+   ```
+
+2. Add a line to run the Rust executable daily at a specific time (e.g., 8 AM):
+   ```sh
+   0 8 * * * /path/to/todo_email_app
+   ```
+
+**On Windows (Using Task Scheduler)**:
+
+1. Open Task Scheduler and create a new task.
+2. In the "General" tab, name your task and provide a description.
+3. In the "Triggers" tab, create a new trigger that runs daily at your desired time.
+4. In the "Actions" tab, create a new action that runs the Rust executable:
+   - Action: Start a program
+   - Program/script: `C:\path\to\todo_email_app.exe
+   - 
+ ´´´´
+_Docs_
 
 * [About Me](https://github.com/josephkb87)* [About Rust Beginners](../docs/README.md)
 * [Rust Worked Examples](https://github.com/josephkb87/Beginners/tree/main/RustWorkedExamples/README.md)
@@ -47,3 +81,4 @@ How?
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md)
+
