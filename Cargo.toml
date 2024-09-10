@@ -1,8 +1,16 @@
+# Cargo.toml
+
 [package]
 name = "Beginners"
 version = "0.1.0"
 edition = "2021"
 authors = ["Kiyini Joseph Balamazze"]
+
+
+[package]
+name = "hello-from-generated-code"
+version = "0.1.0"
+edition = "2021"
 
 
 [dependencies]
