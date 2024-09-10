@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 TO DO EMAIL App
 
 What?
@@ -447,6 +448,8 @@ To automate the script, you can use a task scheduler to run the application dail
 >>>>>>> 7ba5151 (Chore:Update Cargo)
 =======
 >>>>>>> 0175c66 (Update README.md)
+=======
+>>>>>>> 6dbdc0b (Update README.md)
 TO DO EMAIL App
 
 What?
@@ -537,6 +540,7 @@ _Docs_
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
+<<<<<<< HEAD
 <<<<<<< HEAD
 * [References](../docs/References.md)
 <<<<<<< HEAD
@@ -1032,3 +1036,6 @@ _Docs_
 =======
 * [References](../docs/References.md)
 >>>>>>> 0175c66 (Update README.md)
+=======
+* [References](../docs/References.md)
+>>>>>>> 6dbdc0b (Update README.md)
