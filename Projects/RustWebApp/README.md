@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 _RustWebApp_
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -82,6 +83,8 @@ _Docs_
 >>>>>>> 7c54f14 (Chore:Update Cargo)
 =======
 >>>>>>> 4801d3a (Chore:Rebase master)
+=======
+>>>>>>> f0e3735 (Chore:Add AUTHORS)
 _RustWebApp_
 
 <<<<<<< HEAD
@@ -136,6 +139,7 @@ _Docs_
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 =======
 >>>>>>> 69bbc46 (Chore:Add AUTHORS)
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
 =======
@@ -342,6 +346,8 @@ _Docs_
 =======
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 >>>>>>> 4801d3a (Chore:Rebase master)
+=======
+>>>>>>> f0e3735 (Chore:Add AUTHORS)
 _RustWebApp_
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -430,6 +436,7 @@ _Docs_
 >>>>>>> 29c78c3 (Update README.md)
 >>>>>>> fb7d938 (Update README.md)
 
+<<<<<<< HEAD
 _SolidJS_
 
 SolidJS has one of the really good declarative UI Libraries.SolidJS a very powerful but not that well-known Javascript library that we can use to create modern and performing UI/UX.
@@ -466,6 +473,8 @@ _Docs_
 >>>>>>> 743dace (Chore:Resolve Merge Conflicts)
 >>>>>>> 4801d3a (Chore:Rebase master)
 =======
+=======
+>>>>>>> 69bbc46 (Chore:Add AUTHORS)
 =======
 _RustWebApp_
 
@@ -509,7 +518,9 @@ _Docs_
 * [References](../docs/References.md)
 
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
+<<<<<<< HEAD
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 4801d3a (Chore:Rebase master)
 >>>>>>> d2feec9 (Chore:Update cargo)
@@ -521,3 +532,7 @@ _Docs_
 >>>>>>> 7c54f14 (Chore:Update Cargo)
 =======
 >>>>>>> 4801d3a (Chore:Rebase master)
+=======
+=======
+>>>>>>> 69bbc46 (Chore:Add AUTHORS)
+>>>>>>> f0e3735 (Chore:Add AUTHORS)

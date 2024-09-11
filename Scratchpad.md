@@ -4,16 +4,20 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+>>>>>>> f0e3735 (Chore:Add AUTHORS)
 =======
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 =======
 >>>>>>> 69bbc46 (Chore:Add AUTHORS)
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
 =======
@@ -44,6 +48,8 @@
 =======
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 >>>>>>> 4801d3a (Chore:Rebase master)
+=======
+>>>>>>> f0e3735 (Chore:Add AUTHORS)
 # Beginners Scratchpad
 
 ## This  Beginner's Scratchpad is evidence of the work done on this repositrory.
@@ -353,6 +359,10 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> f0e3735 (Chore:Add AUTHORS)
 =======
 >>>>>>> 4801d3a (Chore:Rebase master)
 <<<<<<< HEAD
@@ -700,6 +710,7 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 =======
 >>>>>>> 69bbc46 (Chore:Add AUTHORS)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
 =======
 =======
@@ -732,4 +743,6 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 =======
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 >>>>>>> 4801d3a (Chore:Rebase master)
+=======
+>>>>>>> f0e3735 (Chore:Add AUTHORS)
     ====
