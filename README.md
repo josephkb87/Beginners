@@ -25,6 +25,9 @@
 >>>>>>> fbdc9e3 (Create README.md)
 =======
 >>>>>>> 7d837f7 (Chore:Update directory)
+>>>>>>> 62121c2 (Chore:Update cargo)
+=======
+>>>>>>> d2feec9 (Chore:Update cargo)
 # Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
@@ -820,3 +823,6 @@ In this Beginners repository, we cover Rust Beginners Basics.
 >>>>>>> 4e93fa6 (Create README.md)
 >>>>>>> 2b9416e (Chore:Resolve Merge Conflicts)
 >>>>>>> 62121c2 (Chore:Update cargo)
+=======
+
+>>>>>>> d2feec9 (Chore:Update cargo)

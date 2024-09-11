@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16,6 +17,8 @@
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
 =======
 >>>>>>> 691ff19 (Chore:Update cargo lock)
+=======
+>>>>>>> b3d100b (Chore:Update cargo)
 =======
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 =======
@@ -28,12 +31,16 @@
 =======
 >>>>>>> cc869c6 (Chore:Update cargo lock)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 691ff19 (Chore:Update cargo lock)
 =======
+=======
+>>>>>>> b3d100b (Chore:Update cargo)
 =======
 =======
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 >>>>>>> d2feec9 (Chore:Update cargo)
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b3d100b (Chore:Update cargo)
 =======
@@ -58,6 +65,8 @@
 =======
 >>>>>>> cc869c6 (Chore:Update cargo lock)
 >>>>>>> 691ff19 (Chore:Update cargo lock)
+=======
+>>>>>>> b3d100b (Chore:Update cargo)
 # Beginners Scratchpad
 
 ## This  Beginner's Scratchpad is evidence of the work done on this repositrory.
@@ -370,11 +379,13 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> cc869c6 (Chore:Update cargo lock)
 >>>>>>> 691ff19 (Chore:Update cargo lock)
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
 =======
@@ -402,6 +413,10 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 =======
 =======
 >>>>>>> 3f33c37 (Chore:Update Cargo)
+=======
+>>>>>>> d2feec9 (Chore:Update cargo)
+=======
+>>>>>>> b3d100b (Chore:Update cargo)
 # Beginners Scratchpad
 
 ## This  Beginner's Scratchpad is evidence of the work done on this repositrory.
@@ -713,6 +728,7 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 691ff19 (Chore:Update cargo lock)
@@ -722,6 +738,8 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 >>>>>>> dcb2864 (Chore:Update directory)
 =======
 >>>>>>> 691ff19 (Chore:Update cargo lock)
+=======
+>>>>>>> b3d100b (Chore:Update cargo)
 =======
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 =======
@@ -734,12 +752,16 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 =======
 >>>>>>> cc869c6 (Chore:Update cargo lock)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 691ff19 (Chore:Update cargo lock)
 =======
+=======
+>>>>>>> b3d100b (Chore:Update cargo)
 =======
 =======
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 >>>>>>> d2feec9 (Chore:Update cargo)
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b3d100b (Chore:Update cargo)
 =======
@@ -767,4 +789,6 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 =======
 >>>>>>> cc869c6 (Chore:Update cargo lock)
 >>>>>>> 691ff19 (Chore:Update cargo lock)
+=======
+>>>>>>> b3d100b (Chore:Update cargo)
     ====
