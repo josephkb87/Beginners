@@ -12,6 +12,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -115,6 +116,8 @@ s
 >>>>>>> 7d837f7 (Chore:Update directory)
 =======
 >>>>>>> 2a594fd (Chore:Update Cargo)
+=======
+>>>>>>> 03f5714 (Chore:Update directory)
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -232,12 +235,17 @@ s
 =======
 =======
 =======
+=======
+>>>>>>> c346404 (Chore:Update Cargo)
 <<<<<<< HEAD
 s
 =======
 <<<<<<< HEAD
 >>>>>>> fd9fc1e (Chore:Update Cargo)
 =======
+=======
+<<<<<<< HEAD
+>>>>>>> 9fde6ab (Chore:Update Cargo)
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -253,6 +261,7 @@ chrono = "0.4"
 futures = "0.3"
 atk = "0.18.0" 
 atk-sys = ">= 0.18.0" 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> a0cf675 (Update Cargo.toml)
@@ -271,4 +280,33 @@ atk-sys = ">= 0.18.0"
 =======
 >>>>>>> 7ba5151 (Chore:Update Cargo)
 >>>>>>> fd9fc1e (Chore:Update Cargo)
+<<<<<<< HEAD
 >>>>>>> 2a594fd (Chore:Update Cargo)
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> 7ba5151 (Chore:Update Cargo)
+=======
+=======
+<<<<<<< HEAD
+s
+=======
+[package]
+name = "Beginners"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kiyini Joseph Balamazze"]
+
+
+[dependencies]
+regex = { git = "https://github.com/rust-lang/regex.git" }
+trunk = "0.20.3"
+actix = { version = "0.13.3" }
+chrono = "0.4"
+futures = "0.3"
+atk >= = ">= 2.28" 
+atk-sys = "v0.18.0" 
+>>>>>>> 851dcee (Update cargo.toml)
+>>>>>>> 9fde6ab (Chore:Update Cargo)
+>>>>>>> c346404 (Chore:Update Cargo)
+>>>>>>> 03f5714 (Chore:Update directory)
