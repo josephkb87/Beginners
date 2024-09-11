@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
@@ -29,7 +28,7 @@ _Projects_
 _Documentation_
 
 * [Docs](..docs/)
-* [About Me](https://github.com/josephkb87)
+* [AUTHORS](..docs/AUTHORS/AUTHORS.md)
 * [About Rust Beginners](../docs/README.md)
 * [Rust Worked Examples](https://github.com/josephkb87/Beginners/tree/main/RustWorkedExamples/README.md)
 * [Rust Projects](https://github.com/josephkb87/RustBeginners/tree/main/Projects/README.md)
@@ -41,6 +40,3 @@ _Documentation_
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md   )
-=======
-
->>>>>>> d84c592 (Create README.md)

@@ -4,4 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+<<<<<<< HEAD
 cxx-qt = "0.6.1"
+=======
+>>>>>>> bd563a7 (Chore:Add AUTHORS)

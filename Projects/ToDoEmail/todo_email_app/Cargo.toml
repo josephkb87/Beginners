@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 818d650 (Add files via upload)
 [package]
@@ -50,6 +51,8 @@ chrono = "0.4"
 =======
 <<<<<<< HEAD
 >>>>>>> 577fd56 (Chore:Rebase master)
+=======
+>>>>>>> bd563a7 (Chore:Add AUTHORS)
 [package]
 name = "todo_email_app"
 version = "0.1.0"
@@ -74,6 +77,7 @@ chrono = "0.4"
    serde_json = "1.0"
 =======
 >>>>>>> 787d5a68c01e9ec278f3cac2e8ca6f31317d178a
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 =======
@@ -401,3 +405,5 @@ chrono = "0.4"
 >>>>>>> 577fd56 (Chore:Rebase master)
 =======
 >>>>>>> 818d650 (Add files via upload)
+=======
+>>>>>>> bd563a7 (Chore:Add AUTHORS)

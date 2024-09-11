@@ -805,6 +805,7 @@ Cargo.lock
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
 
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/jetbrains+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=jetbrains+all
 
@@ -897,3 +898,6 @@ fabric.properties
 !.idea/runConfigurations
 
 # End of https://www.toptal.com/developers/gitignore/api/jetbrains+all
+=======
+# End of https://www.toptal.com/developers/gitignore/api/rust,rust-analyzer,windows,linux,macos,emacs,visualstudio,visualstudiocode
+>>>>>>> bd563a7 (Chore:Add AUTHORS)

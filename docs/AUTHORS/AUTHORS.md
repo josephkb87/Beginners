@@ -3,6 +3,7 @@
 1. KIYINI JOSEPH BALAMAZZE [josephkb87](https://github.com/josephkb87)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 2.[clydekingkid](https://github.com/clydekingkid)
 =======
 <<<<<<< HEAD
@@ -24,3 +25,6 @@
 =======
 >>>>>>> d2feec9 (Chore:Update cargo)
 >>>>>>> b3d100b (Chore:Update cargo)
+=======
+2.
+>>>>>>> bd563a7 (Chore:Add AUTHORS)

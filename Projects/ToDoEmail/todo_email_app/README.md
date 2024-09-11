@@ -11,6 +11,11 @@ Enthusiasts, Users, Programmers, interested in making their daily to do list eas
 
 How? 
 
+<<<<<<< HEAD
+=======
+## Step 1: Set Up Your Rust Project
+
+>>>>>>> bd563a7 (Chore:Add AUTHORS)
 1. **Create a new Rust project**:
    ```sh
    cargo new todo_email_app
@@ -26,6 +31,7 @@ How?
    serde_json = "1.0"
    ```
 
+<<<<<<< HEAD
 ## Implement the To-Do Application
 
 1. **Create the main logic in `src/main.rs`**:
@@ -69,6 +75,15 @@ To automate the script, you can use a task scheduler to run the application dail
    - 
  ´´´´
 _Docs_
+=======
+## Step 2: Implement the To-Do Application
+
+1. **Create the main logic in `src/main.rs`**:
+
+
+
+ _Docs_
+>>>>>>> bd563a7 (Chore:Add AUTHORS)
 
 * [About Me](https://github.com/josephkb87)* [About Rust Beginners](../docs/README.md)
 * [Rust Worked Examples](https://github.com/josephkb87/Beginners/tree/main/RustWorkedExamples/README.md)
@@ -80,5 +95,9 @@ _Docs_
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
+<<<<<<< HEAD
 * [References](../docs/References.md)
 
+=======
+* [References](../docs/References.md)
+>>>>>>> bd563a7 (Chore:Add AUTHORS)

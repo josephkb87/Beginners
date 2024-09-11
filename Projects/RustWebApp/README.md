@@ -5,6 +5,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 _RustWebApp_
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -73,6 +74,8 @@ _Docs_
 =======
 <<<<<<< HEAD
 >>>>>>> b3d100b (Chore:Update cargo)
+=======
+>>>>>>> bd563a7 (Chore:Add AUTHORS)
 _RustWebApp_
 
 <<<<<<< HEAD
@@ -114,6 +117,7 @@ _Docs_
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 =======
@@ -435,3 +439,5 @@ _Docs_
 >>>>>>> 4801d3a (Chore:Rebase master)
 >>>>>>> d2feec9 (Chore:Update cargo)
 >>>>>>> b3d100b (Chore:Update cargo)
+=======
+>>>>>>> bd563a7 (Chore:Add AUTHORS)
