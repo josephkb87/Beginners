@@ -5,6 +5,7 @@ name = "Beginners"
 version = "0.1.0"
 edition = "2021"
 authors = ["Kiyini Joseph Balamazze"]
+build = "build.rs"
 
 
 [dependencies]
