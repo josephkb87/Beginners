@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Cargo toml
-=======
-# Cargo.toml
->>>>>>> refs/remotes/origin/master
 
 [package]
 name = "Beginners"
