@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
+=======
+>>>>>>> refs/remotes/origin/master
 use chrono::prelude::*;
 use lettre::{Message, SmtpTransport, Transport};
 use lettre::transport::smtp::authentication::Credentials;
@@ -108,6 +111,7 @@ fn main() -> io::Result<()> {
     }
 
     Ok(())
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 use chrono::prelude::*;
@@ -219,4 +223,6 @@ fn main() -> io::Result<()> {
 >>>>>>> 818d650 (Add files via upload)
 =======
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
+=======
+>>>>>>> refs/remotes/origin/master
 }

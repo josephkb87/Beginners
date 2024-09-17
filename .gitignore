@@ -806,6 +806,7 @@ Cargo.lock
 *.pdb
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/jetbrains+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=jetbrains+all
 
@@ -901,3 +902,6 @@ fabric.properties
 =======
 # End of https://www.toptal.com/developers/gitignore/api/rust,rust-analyzer,windows,linux,macos,emacs,visualstudio,visualstudiocode
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
+=======
+# End of https://www.toptal.com/developers/gitignore/api/rust,rust-analyzer,windows,linux,macos,emacs,visualstudio,visualstudiocode
+>>>>>>> refs/remotes/origin/master

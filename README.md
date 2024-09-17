@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 381da28 (Chore:Update directory)
@@ -1034,6 +1035,8 @@ In this Beginners repository, we cover Rust Beginners Basics.
 >>>>>>> 48b52ff (Chore:Update Cargo)
 >>>>>>> 266edc0 (Chore:Update Cargo)
 =======
+=======
+>>>>>>> refs/remotes/origin/master
 # Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
@@ -1077,4 +1080,7 @@ _Documentation_
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md   )
+<<<<<<< HEAD
 >>>>>>> de86e40 (Update README.md)
+=======
+>>>>>>> refs/remotes/origin/master

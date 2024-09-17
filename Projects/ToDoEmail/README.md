@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 TO DO EMAIL App
 
 What?
@@ -450,6 +451,8 @@ To automate the script, you can use a task scheduler to run the application dail
 >>>>>>> 0175c66 (Update README.md)
 =======
 >>>>>>> 6dbdc0b (Update README.md)
+=======
+>>>>>>> refs/remotes/origin/master
 TO DO EMAIL App
 
 What?
@@ -540,6 +543,7 @@ _Docs_
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 * [References](../docs/References.md)
@@ -1039,3 +1043,6 @@ _Docs_
 =======
 * [References](../docs/References.md)
 >>>>>>> 6dbdc0b (Update README.md)
+=======
+* [References](../docs/References.md)
+>>>>>>> refs/remotes/origin/master

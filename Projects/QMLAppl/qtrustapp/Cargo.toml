@@ -5,6 +5,9 @@ edition = "2021"
 
 [dependencies]
 <<<<<<< HEAD
+<<<<<<< HEAD
 cxx-qt = "0.6.1"
 =======
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
+=======
+>>>>>>> refs/remotes/origin/master

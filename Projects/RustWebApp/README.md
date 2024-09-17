@@ -11,6 +11,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 _RustWebApp_
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -91,6 +92,8 @@ _Docs_
 >>>>>>> 5ad3e0d (Chore:Update Cargo)
 =======
 >>>>>>> b3d100b (Chore:Update cargo)
+=======
+>>>>>>> refs/remotes/origin/master
 _RustWebApp_
 
 <<<<<<< HEAD
@@ -135,16 +138,20 @@ _Docs_
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 =======
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
+>>>>>>> refs/remotes/origin/master
+=======
 =======
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 =======
 >>>>>>> 69bbc46 (Chore:Add AUTHORS)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -167,6 +174,12 @@ _Docs_
 =======
 >>>>>>> d2feec9 (Chore:Update cargo)
 >>>>>>> b3d100b (Chore:Update cargo)
+=======
+=======
+>>>>>>> d29b0f5 (Chore:Update Cargo)
+=======
+>>>>>>> d2feec9 (Chore:Update cargo)
+>>>>>>> refs/remotes/origin/master
 _RustWebApp_
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -174,6 +187,7 @@ A cross-platform desktop app made desktop using Rust, SolidJS, and Tauri.
 =======
 =======
 >>>>>>> 330a836 (Update README.md)
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 RustWebApp is A cross-platform desktop app made desktop using Rust, SolidJS, and Tauri.
@@ -189,14 +203,27 @@ Tauri primarily supports Rust as the backend language, but its API can be implem
 ### Tauri
 Tauri offers the ability to design your UI using web technologies like HTML, CSS, and JavaScript but allows you to use lower-level languages to write the application and backend logic. Tauri primarily supports Rust as the backend language, but its API can be implemented across multiple languages
 >>>>>>> 3291560 (Update README.md)
+=======
+
+RustWebApp is A cross-platform desktop app made desktop using Rust, SolidJS, and Tauri.
+>>>>>>> 29c78c3 (Update README.md)
+
+_Tauri_
+
+Tauri offers the ability to design your UI using web technologies like HTML, CSS, and JavaScript but allows you to use lower-level languages to write the application and backend logic.
+Tauri primarily supports Rust as the backend language, but its API can be implemented across multiple languages
+>>>>>>> refs/remotes/origin/master
 
 ### Rust
 Rust as the backend is better for safety, speed, and preventing incorrect/unsafe code due to its statically-typed features and is great at preventing data races that can lead to undefined behavior, whereas C++ cannot do this work for you and opens up vulnerabilities.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 6619e15 (Update README.md)
+=======
+>>>>>>> refs/remotes/origin/master
 _SolidJS_
 
 SolidJS has one of the really good declarative UI Libraries.SolidJS a very powerful but not that well-known Javascript library that we can use to create modern and performing UI/UX.
@@ -216,6 +243,9 @@ _Docs_
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/master
 _Rust_
 Rust as the backend.
 Rust is a general-purpose programming language emphasizing performance, type safety, and concurrency. It enforces memory safety, meaning that all references point to valid memory, without a garbage collector. To simultaneously enforce memory safety and prevent data races, its "borrow checker"(we will see why this is important later) tracks the object lifetime of all references in a program during compiling.
@@ -224,15 +254,21 @@ Rust is a general-purpose programming language emphasizing performance, type saf
 Contrary to the idea that using the main DOM slows down an application, it is part of what makes SolidJS so performant.The virtual DOM is a lightweight implementation of the main DOM.The way Solid achieves such performant speeds without the use of a virtual DOM is to compile its templates down to real DOM nodes and wrap updates in fine-grained reactions. This way, when your state updates, only the code that depends on it runs.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/master
 >>>>>>> 28a89ac (Update README.md)
 =======
 =======
 A cross-platform desktop app made desktop using Rust, SolidJS, and Tauri.
 =======
+<<<<<<< HEAD
 =======
 >>>>>>> 3291560 (Update README.md)
 =======
 >>>>>>> 6619e15 (Update README.md)
+=======
+>>>>>>> refs/remotes/origin/master
 
 RustWebApp is A cross-platform desktop app made desktop using Rust, SolidJS, and Tauri.
 >>>>>>> e94e33e (Update README.md)
@@ -287,10 +323,15 @@ _Docs_
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md)
 
+<<<<<<< HEAD
 >>>>>>> 743dace (Chore:Resolve Merge Conflicts)
 <<<<<<< HEAD
 >>>>>>> 7c54f14 (Chore:Update Cargo)
 =======
+=======
+<<<<<<< HEAD
+>>>>>>> 743dace (Chore:Resolve Merge Conflicts)
+>>>>>>> refs/remotes/origin/master
 =======
 =======
 >>>>>>> 69bbc46 (Chore:Add AUTHORS)
@@ -347,6 +388,7 @@ _Docs_
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 =======
 >>>>>>> 69bbc46 (Chore:Add AUTHORS)
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
 =======
@@ -561,6 +603,8 @@ _Docs_
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
 =======
 =======
+>>>>>>> refs/remotes/origin/master
+=======
 =======
 =======
 =======
@@ -625,8 +669,11 @@ _Docs_
 <<<<<<< HEAD
 >>>>>>> d29b0f5 (Chore:Update Cargo)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 5ad3e0d (Chore:Update Cargo)
 =======
+=======
+>>>>>>> refs/remotes/origin/master
 =======
 =======
 =======
@@ -676,4 +723,7 @@ _Docs_
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 >>>>>>> 4801d3a (Chore:Rebase master)
 >>>>>>> d2feec9 (Chore:Update cargo)
+<<<<<<< HEAD
 >>>>>>> b3d100b (Chore:Update cargo)
+=======
+>>>>>>> refs/remotes/origin/master

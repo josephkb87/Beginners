@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
+=======
+>>>>>>> refs/remotes/origin/master
 _Rust Beginners_
 
 _Beginners_, is a repository for Beginners Basics of [Rust](#).
@@ -42,6 +45,7 @@ _Docs_
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md   )
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 _Rust Beginners_
@@ -87,3 +91,5 @@ _Docs_
 >>>>>>> 3e2d0d1 (Chore Rebase josephkb87-patch-5 develop)
 =======
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
+=======
+>>>>>>> refs/remotes/origin/master

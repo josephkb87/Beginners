@@ -9,6 +9,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 818d650 (Add files via upload)
 [package]
@@ -74,6 +75,8 @@ chrono = "0.4"
 >>>>>>> b3d100b (Chore:Update cargo)
 =======
 >>>>>>> 577fd56 (Chore:Rebase master)
+=======
+>>>>>>> refs/remotes/origin/master
 [package]
 name = "todo_email_app"
 version = "0.1.0"
@@ -101,16 +104,20 @@ chrono = "0.4"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 =======
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
+>>>>>>> refs/remotes/origin/master
+=======
 =======
 >>>>>>> d18c8f8 (Chore:Add AUTHORS.)
 =======
 >>>>>>> 69bbc46 (Chore:Add AUTHORS)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -148,6 +155,14 @@ chrono = "0.4"
 =======
 >>>>>>> 03c8334 (Chore:Rebase master)
 >>>>>>> 577fd56 (Chore:Rebase master)
+=======
+=======
+>>>>>>> fd9fc1e (Chore:Update Cargo)
+=======
+>>>>>>> d2feec9 (Chore:Update cargo)
+=======
+>>>>>>> 03c8334 (Chore:Rebase master)
+>>>>>>> refs/remotes/origin/master
 [package]
 name = "todo_email_app"
 version = "0.1.0"
@@ -157,6 +172,9 @@ edition = "2021"
 chrono = "0.4"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/master
    serde = { version = "1.0", features = ["derive"] }
    serde_json = "1.0"
 <<<<<<< HEAD
@@ -175,13 +193,17 @@ edition = "2021"
 [dependencies]
 chrono = "0.4"
    lettre = { version = "0.10.0-rc.4", features = ["smtp-tokio", "builder"] }
+<<<<<<< HEAD
 =======
 >>>>>>> a9cd9ea (Chore:Rebase master)
+=======
+>>>>>>> refs/remotes/origin/master
    serde = { version = "1.0", features = ["derive"] }
    serde_json = "1.0"
 =======
 <<<<<<< HEAD
 >>>>>>> 6dd7d7b (Chore:Resolve Merge Conflicts)
+<<<<<<< HEAD
 =======
    lettre = { version = "0.10.0-rc.4", features = ["smtp-tokio", "builder"] }
    serde = { version = "1.0", features = ["derive"] }
@@ -206,6 +228,8 @@ chrono = "0.4"
 =======
 >>>>>>> 6dd7d7b (Chore:Resolve Merge Conflicts)
 >>>>>>> ea61c03 (Chore:Rebase master)
+=======
+>>>>>>> refs/remotes/origin/master
 [package]
 name = "todo_email_app"
 version = "0.1.0"
@@ -213,13 +237,17 @@ edition = "2021"
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 7ba5151 (Chore:Update Cargo)
+=======
+>>>>>>> refs/remotes/origin/master
 [dependencies]
 chrono = "0.4"
    lettre = { version = "0.10.0-rc.4", features = ["smtp-tokio", "builder"] }
    serde = { version = "1.0", features = ["derive"] }
    serde_json = "1.0"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -258,6 +286,21 @@ chrono = "0.4"
 =======
 =======
 >>>>>>> f87e181 (Chore:Rebase master)
+=======
+
+>>>>>>> 820281c (Chore:Resolve Merge Conflicts)
+=======
+>>>>>>> dfa7665 (Chore:Rebase patch01 master)
+=======
+>>>>>>> 2b9416e (Chore:Resolve Merge Conflicts)
+=======
+>>>>>>> 6dd7d7b (Chore:Resolve Merge Conflicts)
+=======
+>>>>>>> 3118847 (Update Projects:ToDoEmailApp)
+=======
+=======
+=======
+>>>>>>> refs/remotes/origin/master
 >>>>>>> 34118f8 (Chore:Update Cargo)
 [package]
 name = "todo_email_app"
@@ -291,21 +334,30 @@ chrono = "0.4"
 >>>>>>> 34118f8 (Chore:Update Cargo)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/master
 =======
 >>>>>>> 39affb5 (Add files via upload)
 <<<<<<< HEAD
 >>>>>>> 22cca21 (Add files via upload)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 57def2a (Add files via upload)
 =======
+=======
+>>>>>>> refs/remotes/origin/master
 =======
 =======
 >>>>>>> 818d650 (Add files via upload)
 <<<<<<< HEAD
 >>>>>>> a9f995b (Add files via upload)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 0803e58 (Add files via upload)
 =======
+=======
+>>>>>>> refs/remotes/origin/master
 =======
 =======
 =======
@@ -342,6 +394,7 @@ chrono = "0.4"
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 <<<<<<< HEAD
 >>>>>>> 69bbc46 (Chore:Add AUTHORS)
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
 =======
@@ -595,6 +648,8 @@ chrono = "0.4"
 >>>>>>> f0e3735 (Chore:Add AUTHORS)
 =======
 =======
+>>>>>>> refs/remotes/origin/master
+=======
 =======
 =======
 =======
@@ -644,8 +699,11 @@ chrono = "0.4"
 <<<<<<< HEAD
 >>>>>>> fd9fc1e (Chore:Update Cargo)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 2a594fd (Chore:Update Cargo)
 =======
+=======
+>>>>>>> refs/remotes/origin/master
 =======
 =======
 =======
@@ -655,8 +713,11 @@ chrono = "0.4"
 <<<<<<< HEAD
 >>>>>>> 55e1698 (Chore:Rebase patch01 master)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> d9e7628 (Chore:Rebase patch01 master)
 =======
+=======
+>>>>>>> refs/remotes/origin/master
 =======
 =======
 =======
@@ -666,8 +727,11 @@ chrono = "0.4"
 <<<<<<< HEAD
 >>>>>>> 62121c2 (Chore:Update cargo)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 381da28 (Chore:Update directory)
 =======
+=======
+>>>>>>> refs/remotes/origin/master
 =======
 =======
 =======
@@ -677,8 +741,11 @@ chrono = "0.4"
 <<<<<<< HEAD
 >>>>>>> 8ffacc5 (Chore:Rebase master)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 3cdea5e (Chore:Rebase master)
 =======
+=======
+>>>>>>> refs/remotes/origin/master
 =======
 =======
 =======
@@ -688,8 +755,11 @@ chrono = "0.4"
 <<<<<<< HEAD
 >>>>>>> 07b1d87 (Chore:Rebase master)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 86d94cd (Chore:Update directory)
 =======
+=======
+>>>>>>> refs/remotes/origin/master
 =======
 =======
 =======
@@ -729,12 +799,18 @@ chrono = "0.4"
 <<<<<<< HEAD
 >>>>>>> d2feec9 (Chore:Update cargo)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> b3d100b (Chore:Update cargo)
 =======
+=======
+>>>>>>> refs/remotes/origin/master
 =======
 =======
 =======
 >>>>>>> 34118f8 (Chore:Update Cargo)
 >>>>>>> f87e181 (Chore:Rebase master)
 >>>>>>> 03c8334 (Chore:Rebase master)
+<<<<<<< HEAD
 >>>>>>> 577fd56 (Chore:Rebase master)
+=======
+>>>>>>> refs/remotes/origin/master
