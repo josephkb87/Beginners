@@ -43,4 +43,4 @@ repos:
         additional_dependencies: [mdformat-gfm, mdformat-frontmatter, mdformat-pyproject]
 
 default_language_version:
-    python: python3
+    rust
