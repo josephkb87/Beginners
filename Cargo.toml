@@ -17,3 +17,10 @@ futures = "0.3"
 atk = ">0.17.0" 
 atk-sys = ">= 2.28" 
 cc = "1.1.20" 
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+opt-level = 3
+The opt-level setting
