@@ -15,5 +15,5 @@ actix = { version = "0.13.3" }
 chrono = "0.4"
 futures = "0.3"
 atk = "0.18.0" 
-atk-sys = ">= 0.18.0" 
+atk-sys = ">= 2.28" 
 cc = "1.1.20" 
