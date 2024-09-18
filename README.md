@@ -14,14 +14,7 @@ This repository serves the purpose of covering the basics for Beginners of Rust.
 Rust is a challenging choice, but worth to be chosen. It has strong memory-safety and type-safety, this gives you no bother about those errors. However, static typing languages often slow our developing speed down in early stage. It's important not to be afraid to throw away first code you write.
 
 
-typeful programming language: types are pervasive, and the newcomer is best off becoming well aware of the full power and complexity of Haskell's type system from the outset. For those whose only experience is with relatively "untypeful" languages such as Perl, Tcl, or Scheme, this may be a difficult adjustment; for those familiar with Java, C, Modula, or even ML, the adjustment should be easier but still not insignificant, since Haskell's type system is different and somewhat richer than most.
-
 This Rust Beginners repository does not teach programming, nor even to teach Rust Pogramming. Rather, it is intended to serve as a guide to provide a gentle introduction to Rust for someone who has or doesnoy have experience with at least one other language, preferably a functional language.
-
-Rust Beginners includes;
-
-
-[Contribute](..docs/Contributing.md). [CHANGELOG](..docs/CHANGELOG.md). [Docs](..docs/)
 
 ## Docs
 * [About Me](https://github.com/josephkb87)
