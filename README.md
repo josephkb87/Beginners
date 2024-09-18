@@ -18,11 +18,6 @@ typeful programming language: types are pervasive, and the newcomer is best off 
 
 This Rust Beginners repository does not teach programming, nor even to teach Rust Pogramming. Rather, it is intended to serve as a guide to provide a gentle introduction to Rust for someone who has or doesnoy have experience with at least one other language, preferably a functional language.
 
-Rust Beginners includes;
-
-
-[Contribute](..docs/Contributing.md). [CHANGELOG](..docs/CHANGELOG.md). [Docs](..docs/)
-
 ## Docs
 * [About Me](https://github.com/josephkb87)
 * [About Rust Beginners](../docs/README.md)
