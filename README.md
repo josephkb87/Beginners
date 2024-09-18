@@ -1,35 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 381da28 (Chore:Update directory)
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 2b9416e (Chore:Resolve Merge Conflicts)
-<<<<<<< HEAD
-=======
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> df92c8b (Chore:Resolve Merge Conflicts)
-=======
->>>>>>> 4801d3a (Chore:Rebase master)
-=======
->>>>>>> fbdc9e3 (Create README.md)
-=======
->>>>>>> 7d837f7 (Chore:Update directory)
->>>>>>> 62121c2 (Chore:Update cargo)
-=======
->>>>>>> d2feec9 (Chore:Update cargo)
 # Rust Beginners
 
 _Beginners_, is a repository for Beginners that covers Beginners Basics of [Rust](#)
@@ -60,7 +28,6 @@ _Projects_
 _Documentation_
 
 * [Docs](..docs/)
-<<<<<<< HEAD
 * [AUTHORS](..docs/AUTHORS/AUTHORS.md)
 * [About Rust Beginners](../docs/README.md)
 * [Rust Worked Examples](https://github.com/josephkb87/Beginners/tree/main/RustWorkedExamples/README.md)
