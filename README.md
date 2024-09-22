@@ -14,10 +14,7 @@ This repository serves the purpose of covering the basics for Beginners of Rust.
 Rust is a challenging choice, but worth to be chosen. It has strong memory-safety and type-safety, this gives you no bother about those errors. However, static typing languages often slow our developing speed down in early stage. It's important not to be afraid to throw away first code you write.
 
 
-This Rust Beginners repository does not teach programming, nor even to teach Rust Pogramming. Rather, it is intended to serve as a guide to provide a gentle introduction to Rust for someone who has or doesnoy have experience with at least one other language, preferably a functional language.
-
-## Docs
-* [About Me](https://github.com/josephkb87)
+* [Docs](..docs/)
 * [About Rust Beginners](../docs/README.md)
 * [Rust Worked Examples](https://github.com/josephkb87/Beginners/tree/main/RustWorkedExamples/README.md)
 * [Rust Projects](https://github.com/josephkb87/RustBeginners/tree/main/Projects/README.md)
@@ -27,9 +24,6 @@ This Rust Beginners repository does not teach programming, nor even to teach Rus
 * [SECURITY](../docs/SECURITY.md) 
 * [Attributions](..docs/Attributions.md) 
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
-* [LICENSE](../LICENSE.md)
-* [References](../docs/References.md)
-
-
-
+* [LICENSE](..docs/LICENSE.md)
+* [References](../docs/references.md)
 
