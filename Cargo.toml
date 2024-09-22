@@ -3,6 +3,7 @@ name = "Beginners"
 version = "0.1.0"
 edition = "2021"
 authors = ["Kiyini Joseph Balamazze"]
+build = "build.rs"
 
 
 [dependencies]
@@ -11,5 +12,13 @@ trunk = "0.20.3"
 actix = { version = "0.13.3" }
 chrono = "0.4"
 futures = "0.3"
-atk = "0.18.0" 
-atk-sys = ">= 0.18.0" 
+atk = ">0.17.0" 
+atk-sys = ">= 2.28" 
+cc = "1.1.20" 
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+opt-level = 3
+The opt-level setting
