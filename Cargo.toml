@@ -9,14 +9,16 @@ build = "build.rs"
 
 
 [dependencies]
-regex = { git = "https://github.com/rust-lang/regex.git" }
+# .git suffix can be omitted if the host accepts such URLs - both examples work the same
+
+regex = { git = "https://github.com/rust-lang/regex" }
 trunk = "0.20.3"
 actix = { version = "0.13.3" }
 chrono = "0.4"
 futures = "0.3"
 atk = ">0.17.0" 
-atk-sys = ">= 2.28" 
-cc = "1.1.20" 
+atk-sys = ">= 0.18.0" 
+cc = "1.1.20"
 
 [profile.dev]
 opt-level = 0
@@ -24,3 +26,5 @@ opt-level = 0
 [profile.release]
 opt-level = 3
 The opt-level setting
+time = "0.3.36"
+tauri-build = "1.5.5"

@@ -1,46 +1,31 @@
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
 repos:
--   repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
-    hooks:
-    -   id: check-yaml
+- repo: https://github.com/rpm-software-management/rpmlint.git
+  rev: 2.5.0
+  hooks:
+  - id: rpmlint
+    files: ^dnf\.spec$
+  # Passes if packit not installed. Needed for validation locally
+- repo: https://github.com/packit/pre-commit-hooks
+  rev: v1.2.0
+  hooks:
+  - id: validate-config
 
--   repo: https://github.com/PyCQA/isort
-    rev: 5.13.2
-    hooks:
-      - id: isort
-
--   repo: https://github.com/psf/black
-    rev: 24.8.0
-    hooks:
-      - id: black
-        name: black
-
--   repo: https://github.com/pycqa/flake8
-    rev: 7.1.1
-    hooks:
-    -   id: flake8
-        additional_dependencies: [flake8-breakpoint, flake8-print, flake8-pydantic]
-
--   repo: https://github.com/pre-commit/mirrors-mypy
-    rev: v1.11.1
-    hooks:
-    -   id: mypy
-        additional_dependencies: [
-                pydantic,
-                pandas-stubs,
-                types-python-dateutil,
-                types-PyYAML,
-                types-requests,
-                types-setuptools,
-                types-SQLAlchemy,
-                types-toml
-        ]
-
--   repo: https://github.com/executablebooks/mdformat
-    rev: 0.7.17
-    hooks:
-    -   id: mdformat
-        additional_dependencies: [mdformat-gfm, mdformat-frontmatter, mdformat-pyproject]
-
-default_language_version:
-    rust
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v3.2.0
+  hooks:
+  - id: check-added-large-files
+  - id: check-merge-conflict
+  # Passes if packit not installed. Needed for validation locally
+- repo: https://github.com/packit/pre-commit-hooks
+  rev: v1.2.0
+  hooks:
+  - id: validate-config
+- repo: https://github.com/teemtee/tmt.git
+  rev: 1.26.0
+  hooks:
+  - id: tmt-lint  
