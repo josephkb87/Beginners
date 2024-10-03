@@ -25,6 +25,5 @@ opt-level = 0
 
 [profile.release]
 opt-level = 3
-The opt-level setting
 time = "0.3.36"
 tauri-build = "1.5.5"
