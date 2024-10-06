@@ -16,20 +16,35 @@ Rust is a challenging choice, but worth to be chosen. It has strong memory-safet
 
 This Rust Beginners repository does not teach programming, nor even to teach Rust Pogramming. Rather, it is intended to serve as a guide to provide a gentle introduction to Rust for someone who has or doesnoy have experience with at least one other language, preferably a functional language.
 
-## Docs
+_Documentation_
+
+* [Docs](..docs/)
 * [About Me](https://github.com/josephkb87)
 * [About Rust Beginners](../docs/README.md)
 * [Rust Worked Examples](https://github.com/josephkb87/Beginners/tree/main/RustWorkedExamples/README.md)
 * [Rust Projects](https://github.com/josephkb87/RustBeginners/tree/main/Projects/README.md)
-* [CHANGELOG](../docs/CHANGELOG.md) 
+* [CHANGELOG](../docs/CHANGELOG.md)
 * [Contribute](../docs/CONTRIBUTING.md)
-* [Pull Requests](../docs/blob/PRs.md)  
-* [SECURITY](../docs/SECURITY.md) 
-* [Attributions](..docs/Attributions.md) 
-* [CodeOfConduct]([../docs/CodeOfConduct.md)) 
+* [Pull Requests](../docs/blob/PRs.md)
+* [SECURITY](../docs/SECURITY.md)
+* [Attributions](..docs/Attributions.md)
+* [CodeOfConduct](../docs/CodeOfConduct.md)
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md)
+* [AUTHORS](../docs/AUTHORS.md)
 
+_Projects_
 
+* [QMLApp](../Projects/QMLAppl) - A QT Rust App.
 
+* RustAPI -A RESTful RustAPI.
 
+* RustWebApp - A Rust_WASM WebApp (A Rust CrossPlatform App).
+
+* ToDoEmail - A Rust TO DO App that sends the to do list to an email.
+
+* Rust_SCM - A Rust SCM Tool.
+
+_Contributors_
+
+Great care has been taken to acknowledge [Contributors](../docs/AUTHORS.md) to this work.If code has been utilised to build this [Rust Beginners](../docs/README.md).Please make a [Pull Request](../docs/blob/PRs.md) to add [AUTHORS](../docs/AUTHORS.md), [CodeOwners](../docs/AUTHORS.md) and [Contributors](../docs/AUTHORS.md) if, they have not been added.
