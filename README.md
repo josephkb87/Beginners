@@ -26,7 +26,7 @@ This Rust Beginners repository does not teach programming, nor even to teach Rus
 * [Pull Requests](../docs/blob/PRs.md)  
 * [SECURITY](../docs/SECURITY.md) 
 * [Attributions](..docs/Attributions.md) 
-* [CodeOfConduct](../docs/CodeOfConduct.md) 
+* [CodeOfConduct]([../docs/CodeOfConduct.md)) 
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md)
 
