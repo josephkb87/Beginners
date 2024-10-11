@@ -33,7 +33,6 @@ _Documentation_
 * [Attributions](..docs/Attributions.md)
 * [CodeOfConduct](../docs/CodeOfConduct.md)
 * [LICENSE](../LICENSE.md)
-<<<<<<< HEAD
 * [References](../docs/References.md)
 * [AUTHORS](../docs/AUTHORS.md)
 
@@ -52,6 +51,3 @@ _Projects_
 _Contributors_
 
 Great care has been taken to acknowledge [Contributors](../docs/AUTHORS.md) to this work.If code has been utilised to build this [Rust Beginners](../docs/README.md).Please make a [Pull Request](../docs/blob/PRs.md) to add [AUTHORS](../docs/AUTHORS.md), [CodeOwners](../docs/AUTHORS.md) and [Contributors](../docs/AUTHORS.md) if, they have not been added.
-=======
-* [References](.
->>>>>>> 07f3f52f4bee59a02447881a398a5042ae64e292
