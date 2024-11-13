@@ -5,15 +5,22 @@
 It's contents are open to update, change, and deletion without proior notice from the [AUTHORS](#) of this work.
 
 
-Step 4
+Step 1
 ## Add Rust Framework, 
 
 
+Step 2
+## Add Rust Framework, and sudo dnf upgrade
 
+Step 3
+## Add Rust Framework,  add Step 2 and Step 1  
 
+Step 4
+## Add Rust Framework, and Step 3 and Step 2 and Step 1 Bazel in order to build
 
-Step 5.
-## Add Bazel in order to build
+Step 5
+## dd Rust Framework, and Step 3 and Step 2 and Step 1  Bazel in order to build and Add Bazel in order to build 
+
 
 First, we check, where we are.
 
