@@ -1,95 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> f0e3735 (Chore:Add AUTHORS)
-=======
->>>>>>> 691ff19 (Chore:Update cargo lock)
-=======
->>>>>>> b3d100b (Chore:Update cargo)
-=======
->>>>>>> dcb2864 (Chore:Update directory)
-=======
->>>>>>> refs/remotes/origin/master
-=======
->>>>>>> d18c8f8 (Chore:Add AUTHORS.)
-=======
->>>>>>> 69bbc46 (Chore:Add AUTHORS)
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> f0e3735 (Chore:Add AUTHORS)
-=======
-=======
->>>>>>> cc869c6 (Chore:Update cargo lock)
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 691ff19 (Chore:Update cargo lock)
-=======
-=======
->>>>>>> b3d100b (Chore:Update cargo)
-=======
-=======
->>>>>>> cc869c6 (Chore:Update cargo lock)
->>>>>>> refs/remotes/origin/master
-=======
-=======
->>>>>>> d18c8f8 (Chore:Add AUTHORS.)
->>>>>>> d2feec9 (Chore:Update cargo)
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> b3d100b (Chore:Update cargo)
-=======
-=======
->>>>>>> dcb2864 (Chore:Update directory)
-=======
->>>>>>> refs/remotes/origin/master
-=======
-=======
->>>>>>> d18c8f8 (Chore:Add AUTHORS.)
-=======
->>>>>>> 48b52ff (Chore:Update Cargo)
->>>>>>> 266edc0 (Chore:Update Cargo)
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> dcb2864 (Chore:Update directory)
-=======
->>>>>>> bd563a7 (Chore:Add AUTHORS)
-=======
->>>>>>> 3f33c37 (Chore:Update Cargo)
-=======
-=======
->>>>>>> d18c8f8 (Chore:Add AUTHORS.)
->>>>>>> 4801d3a (Chore:Rebase master)
-=======
->>>>>>> f0e3735 (Chore:Add AUTHORS)
-=======
-=======
->>>>>>> cc869c6 (Chore:Update cargo lock)
->>>>>>> 691ff19 (Chore:Update cargo lock)
-=======
->>>>>>> b3d100b (Chore:Update cargo)
-=======
->>>>>>> dcb2864 (Chore:Update directory)
-=======
->>>>>>> refs/remotes/origin/master
 # Beginners Scratchpad
 
 ## This  Beginner's Scratchpad is evidence of the work done on this repositrory.
@@ -97,15 +5,22 @@
 It's contents are open to update, change, and deletion without proior notice from the [AUTHORS](#) of this work.
 
 
-Step 4
+Step 1
 ## Add Rust Framework, 
 
 
+Step 2
+## Add Rust Framework, and sudo dnf upgrade
 
+Step 3
+## Add Rust Framework,  add Step 2 and Step 1  
 
+Step 4
+## Add Rust Framework, and Step 3 and Step 2 and Step 1 Bazel in order to build
 
-Step 5.
-## Add Bazel in order to build
+Step 5
+## dd Rust Framework, and Step 3 and Step 2 and Step 1  Bazel in order to build and Add Bazel in order to build 
+
 
 First, we check, where we are.
 
@@ -392,94 +307,6 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
 
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> cc869c6 (Chore:Update cargo lock)
->>>>>>> 691ff19 (Chore:Update cargo lock)
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> f0e3735 (Chore:Add AUTHORS)
-=======
->>>>>>> 4801d3a (Chore:Rebase master)
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> f0e3735 (Chore:Add AUTHORS)
-=======
-=======
->>>>>>> cc869c6 (Chore:Update cargo lock)
->>>>>>> 691ff19 (Chore:Update cargo lock)
-=======
-=======
->>>>>>> cc869c6 (Chore:Update cargo lock)
->>>>>>> refs/remotes/origin/master
-=======
-<<<<<<< HEAD
->>>>>>> d2feec9 (Chore:Update cargo)
-=======
-=======
->>>>>>> 48b52ff (Chore:Update Cargo)
->>>>>>> 266edc0 (Chore:Update Cargo)
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 3e2d0d1 (Chore Rebase josephkb87-patch-5 develop)
-=======
-=======
->>>>>>> 3f33c37 (Chore:Update Cargo)
-=======
->>>>>>> d2feec9 (Chore:Update cargo)
-=======
->>>>>>> b3d100b (Chore:Update cargo)
-=======
->>>>>>> dcb2864 (Chore:Update directory)
-=======
->>>>>>> refs/remotes/origin/master
-# Beginners Scratchpad
-
-## This  Beginner's Scratchpad is evidence of the work done on this repositrory.
-
-It's contents are open to update, change, and deletion without proior notice from the [AUTHORS](#) of this work.
-
-
-Step 4
-## Add Rust Framework, 
-
-
-
-
-
-Step 5.
-## Add Bazel in order to build
-
-First, we check, where we are.
-
-   ```
-PS D:\BaselBuilds\projects\Rustprojects\Beginners> pwd
-
-Path
-----
-D:\BaselBuilds\projects\Rustprojects\Beginners
-
-
    ```
 
 Then we start basel. It should show you the default download starting.
@@ -753,104 +580,3 @@ warning: Beginners v0.1.0 (D:\BaselBuilds\projects\Rustprojects\Beginners) ignor
    Compiling windows_x86_64_gnu v0.52.4
     Building [==>                       ] 20/138: syn, windows_x86_64_gnu(build.rs), p...   
 
-
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> refs/remotes/origin/master
->>>>>>> 7fc148c (Chore Rebase josephkb87-patch-5 develop)
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 691ff19 (Chore:Update cargo lock)
-=======
->>>>>>> b3d100b (Chore:Update cargo)
-=======
->>>>>>> dcb2864 (Chore:Update directory)
-=======
->>>>>>> 691ff19 (Chore:Update cargo lock)
-=======
->>>>>>> b3d100b (Chore:Update cargo)
-=======
->>>>>>> dcb2864 (Chore:Update directory)
-=======
->>>>>>> refs/remotes/origin/master
-=======
->>>>>>> d18c8f8 (Chore:Add AUTHORS.)
-=======
->>>>>>> 69bbc46 (Chore:Add AUTHORS)
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> f0e3735 (Chore:Add AUTHORS)
-=======
-=======
->>>>>>> cc869c6 (Chore:Update cargo lock)
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 691ff19 (Chore:Update cargo lock)
-=======
-=======
->>>>>>> b3d100b (Chore:Update cargo)
-=======
-=======
->>>>>>> cc869c6 (Chore:Update cargo lock)
->>>>>>> refs/remotes/origin/master
-=======
-=======
->>>>>>> d18c8f8 (Chore:Add AUTHORS.)
->>>>>>> d2feec9 (Chore:Update cargo)
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> b3d100b (Chore:Update cargo)
-=======
-=======
->>>>>>> dcb2864 (Chore:Update directory)
-=======
->>>>>>> refs/remotes/origin/master
-=======
-=======
->>>>>>> d18c8f8 (Chore:Add AUTHORS.)
-=======
->>>>>>> 48b52ff (Chore:Update Cargo)
->>>>>>> 266edc0 (Chore:Update Cargo)
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> dcb2864 (Chore:Update directory)
-=======
->>>>>>> 3e2d0d1 (Chore Rebase josephkb87-patch-5 develop)
-=======
->>>>>>> bd563a7 (Chore:Add AUTHORS)
-=======
->>>>>>> 7fc148c (Chore Rebase josephkb87-patch-5 develop)
->>>>>>> 3f33c37 (Chore:Update Cargo)
-=======
-=======
->>>>>>> d18c8f8 (Chore:Add AUTHORS.)
->>>>>>> 4801d3a (Chore:Rebase master)
-=======
->>>>>>> f0e3735 (Chore:Add AUTHORS)
-=======
-=======
->>>>>>> cc869c6 (Chore:Update cargo lock)
->>>>>>> 691ff19 (Chore:Update cargo lock)
-=======
->>>>>>> b3d100b (Chore:Update cargo)
-=======
->>>>>>> dcb2864 (Chore:Update directory)
-=======
->>>>>>> refs/remotes/origin/master
-    ====
