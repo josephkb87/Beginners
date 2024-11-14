@@ -15,6 +15,23 @@ Rust is a challenging choice, but worth to be chosen. It has strong memory-safet
 
 This Rust Beginners repository does not teach programming, nor even to teach Rust Pogramming. Rather, it is intended to serve as a guide to provide a gentle introduction to Rust for someone who has or doesnoy have experience with at least one other language, preferably a functional language.
 
+Rust Beginners includes;
+
+* [Rust Worked Examples](https://github.com/josephkb87/Beginners/tree/main/RustWorkedExamples/README.md)
+  
+
+[Projects](https://github.com/josephkb87/Beginners/tree/main/Projects/README.md) include;
+
+* QMLApp- [A QT Rust App](../Projects/QMLAppl) 
+
+* RustAPI -A RESTful RustAPI.
+
+* RustWebApp - A Rust_WASM WebApp (A Rust CrossPlatform App).
+
+* ToDoEmail - A Rust TO DO App that sends the to do list to an email.
+
+* Rust_SCM - A Rust SCM Tool.
+
 _Docs_
 
 * [About Me](https://github.com/josephkb87)
@@ -31,24 +48,6 @@ _Docs_
 * [References](../docs/References.md)
 * [AUTHORS](../docs/AUTHORS.md)
 
-
-_Projects_
-
-Rust Beginners includes;
-
-* [Rust Worked Examples](https://github.com/josephkb87/Beginners/tree/main/RustWorkedExamples/README.md)
-  
-* [Projects](https://github.com/josephkb87/Beginners/tree/main/Projects/README.md)
-
-* [QMLApp](../Projects/QMLAppl) - A QT Rust App.
-
-* RustAPI -A RESTful RustAPI.
-
-* RustWebApp - A Rust_WASM WebApp (A Rust CrossPlatform App).
-
-* ToDoEmail - A Rust TO DO App that sends the to do list to an email.
-
-* Rust_SCM - A Rust SCM Tool.
 
 _Contributors_
 
