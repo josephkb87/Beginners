@@ -20,7 +20,7 @@ Rust Beginners includes;
 * [Rust Worked Examples](https://github.com/josephkb87/Beginners/tree/main/RustWorkedExamples/README.md)
   
 
-[Projects](https://github.com/josephkb87/Beginners/tree/main/Projects/README.md) include;
+[Projects](https://github.com/josephkb87/Beginners/tree/main/Projects/README.md);
 
 * QMLApp- [A QT Rust App](../Projects/QMLAppl) 
 
@@ -48,8 +48,4 @@ _Docs_
 * [References](../docs/References.md)
 * [AUTHORS](../docs/AUTHORS.md)
 
-
-_Contributors_
-
-Great care has been taken to acknowledge [Contributors](../docs/AUTHORS.md) to this work.If code has been utilised to build this [Rust Beginners](../docs/README.md).Please make a [Pull Request](../docs/blob/PRs.md) to add [AUTHORS](../docs/AUTHORS.md), [CodeOwners](../docs/AUTHORS.md) and [Contributors](../docs/AUTHORS.md) if, they have not been added.
 
