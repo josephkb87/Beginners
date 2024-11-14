@@ -9,9 +9,6 @@ Step 4
 ## Add Rust Framework, 
 
 
-
-
-
 Step 5.
 ## Add Bazel in order to build
 
