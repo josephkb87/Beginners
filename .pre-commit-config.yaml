@@ -1,0 +1,67 @@
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+repos:
+- repo: https://github.com/rpm-software-management/rpmlint.git
+  rev: 2.6.1
+  hooks:
+  - id: rpmlint
+    files: ^dnf\.spec$
+  # Passes if packit not installed. Needed for validation locally
+- repo: https://github.com/packit/pre-commit-hooks
+  rev: v1.2.0
+  hooks:
+  - id: validate-config
+
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v4.6.0
+  hooks:
+  - id: check-added-large-files
+  - id: check-merge-conflict
+  - id: check-toml
+  - id: check-yaml
+  - id: end-of-file-fixer
+  - id: trailing-whitespace
+  
+  # Passes if packit not installed. Needed for validation locally
+- repo: https://github.com/packit/pre-commit-hooks
+  rev: v1.2.0
+  hooks:
+  - id: validate-config
+
+- repo: https://github.com/teemtee/tmt.git
+  rev: 1.37.0
+  hooks:
+  - id: tmt-lint  
+
+- repo: https://github.com/pre-commit/pygrep-hooks
+  rev: v1.10.0  # Use the ref you want to point at
+  hooks:
+  - id: python-use-type-annotations
+  
+- repo: https://github.com/doublify/pre-commit-rust
+  rev: v1.0
+  hooks:
+  - id: fmt
+  - id: cargo-check
+
+- repo: https://github.com/doublify/pre-commit-rust
+  rev: v1.0
+  hooks:
+  - id: fmt
+    args: ['--verbose', '--edition', '2018', '--']
+
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v4.6.0  # Use the ref you want to point at
+  hooks:
+  - id: check-toml
+        
+- repo: https://github.com/shellcheck-py/shellcheck-py
+  rev: v0.10.0.1
+  hooks:
+  - id: shellcheck
+
+- repo: https://github.com/python-jsonschema/check-jsonschema
+  rev: 0.29.3
+  hooks:
+  - id: check-github-workflows
+    args: ["--verbose"]  
