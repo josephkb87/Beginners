@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 s
 =======
 [package]
@@ -20,3 +21,20 @@ atk-sys = ">= 0.18.0"
 >>>>>>> a0cf675 (Update Cargo.toml)
 =======
 >>>>>>> 787d5a68c01e9ec278f3cac2e8ca6f31317d178a
+=======
+[package]
+name = "Beginners"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kiyini Joseph Balamazze"]
+
+
+[dependencies]
+regex = { git = "https://github.com/rust-lang/regex.git" }
+trunk = "0.20.3"
+actix = { version = "0.13.3" }
+chrono = "0.4"
+futures = "0.3"
+atk = "0.18.0" 
+atk-sys = ">= 0.18.0" 
+>>>>>>> 239fa35
