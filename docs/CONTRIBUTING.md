@@ -1,4 +1,9 @@
-# Contributing guidelines
+_Contributors_
+
+Great care has been taken to acknowledge [Contributors](../docs/AUTHORS.md) to this work.If code has been utilised to build this [Rust Beginners](../docs/README.md).Please make a [Pull Request](../docs/blob/PRs.md) to add [AUTHORS](../docs/AUTHORS.md), [CodeOwners](../docs/AUTHORS.md) and [Contributors](../docs/AUTHORS.md) if, they have not been added.
+
+
+_Contributing guidelines_
 
 We’d love you to help us improve this project. To help us keep this collection
 high quality, we request that contributions adhere to the following guidelines.

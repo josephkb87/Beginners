@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, world!,We have Just Built this Script With Rust");
 }

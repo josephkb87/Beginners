@@ -1,0 +1,56 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "Projects/RustWebApp/Rust_WASM",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": [],
+			"label": "npm: install - Projects/RustWebApp/Rust_WASM",
+			"detail": "install dependencies from package"
+		}
+
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "Projects/QMLAppl/qtrustapp",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": [],
+			"label": "npm: install - Projects/QMLAppl/qtrustapp",
+			"detail": "install dependencies from package"
+		}
+
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "Projects/RustAPI/restful-rustapi",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": [],
+			"label": "npm: install - Projects/RustAPI/restful-rustapi",
+			"detail": "install dependencies from package"
+		}
+
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "Projects/ToDoEmail/todo_email_app",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": [],
+			"label": "npm: install - Projects/ToDoEmail/todo_email_app",
+			"detail": "install dependencies from package"
+		}
+	]
+}
