@@ -1,6 +1,10 @@
 Code of Conduct
 
+<<<<<<< HEAD
 This Code of Conduct has been adapted from the Rust Code of Conduct
+=======
+This Code of COnduct has been adapted from the Rust Code of Conduct
+>>>>>>> refs/remotes/origin/master
 
 A version of this document can be found online.
 

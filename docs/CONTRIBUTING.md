@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 # Contributing guidelines
+=======
+_Contributors_
+
+Great care has been taken to acknowledge [Contributors](../docs/AUTHORS.md) to this work.If code has been utilised to build this [Rust Beginners](../docs/README.md).Please make a [Pull Request](../docs/blob/PRs.md) to add [AUTHORS](../docs/AUTHORS.md), [CodeOwners](../docs/AUTHORS.md) and [Contributors](../docs/AUTHORS.md) if, they have not been added.
+
+
+_Contributing guidelines_
+>>>>>>> refs/remotes/origin/master
 
 We’d love you to help us improve this project. To help us keep this collection
 high quality, we request that contributions adhere to the following guidelines.
@@ -36,4 +45,8 @@ useful rules, then the template might not be a good fit for this collection.
 Please also understand that we can’t list every tool that ever existed.
 Our aim is to curate a collection of the *most common and helpful* templates,
 not to make sure we cover every project possible. If we choose not to
+<<<<<<< HEAD
 include your language, tool, or project, it’s not because it’s not awesome.
+=======
+include your language, tool, or project, it’s not because it’s not awesome.
+>>>>>>> refs/remotes/origin/master

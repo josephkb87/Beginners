@@ -1,0 +1,29 @@
+## local_config_sh.bzl
+def _sh_config_rule_impl(repository_ctx):
+    sh_path = get_sh_path_from_env("SH_BIN_PATH")
+
+    if not sh_path:
+        sh_path = detect_sh_from_path()
+
+    if not sh_path:
+        sh_path = "/shell/binary/not/found"
+
+    repository_ctx.file("BUILD", """
+load("@bazel_tools//tools/sh:sh_toolchain.bzl", "sh_toolchain")
+sh_toolchain(
+    name = "local_sh",
+    path = "{sh_path}",
+    visibility = ["//visibility:public"],
+)
+toolchain(
+    name = "local_sh_toolchain",
+    toolchain = ":local_sh",
+    toolchain_type = "@bazel_tools//tools/sh:toolchain_type",
+)
+""".format(sh_path = sh_path))
+
+sh_config_rule = repository_rule(
+    environ = ["SH_BIN_PATH"],
+    local = True,
+    implementation = _sh_config_rule_impl,
+)

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 _Rust Beginners_
 
 _Beginners_, is a repository for Beginners Basics of [Rust](#).
@@ -81,3 +82,5 @@ _Docs_
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md   )
 >>>>>>> 239fa35
+=======
+>>>>>>> refs/remotes/origin/master
