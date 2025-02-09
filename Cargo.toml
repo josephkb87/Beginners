@@ -1,32 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-s
-=======
-[package]
-name = "Beginners"
-version = "0.1.0"
-edition = "2021"
-authors = ["Kiyini Joseph Balamazze"]
-
-
-[dependencies]
-regex = { git = "https://github.com/rust-lang/regex.git" }
-trunk = "0.20.3"
-actix = { version = "0.13.3" }
-chrono = "0.4"
-futures = "0.3"
-atk = "0.18.0" 
-atk-sys = ">= 0.18.0" 
-<<<<<<< HEAD
->>>>>>> a0cf675 (Update Cargo.toml)
-=======
->>>>>>> 787d5a68c01e9ec278f3cac2e8ca6f31317d178a
-=======
-=======
-# Cargo toml
-
->>>>>>> refs/remotes/origin/master
 [package]
 name = "Beginners"
 version = "0.1.0"
@@ -34,19 +5,15 @@ edition = "2021"
 authors = ["Kiyini Joseph Balamazze"]
 build = "build.rs"
 
-[dependencies]
-# .git suffix can be omitted if the host accepts such URLs - both examples work the same
 
-regex = { git = "https://github.com/rust-lang/regex" }
-trunk = "0.21.1"
+[dependencies]
+regex = { git = "https://github.com/rust-lang/regex.git" }
+trunk = "0.21.6"
 actix = { version = "0.13.3" }
 chrono = "0.4"
 futures = "0.3"
-atk = ">0.17.0" 
+atk = "0.18.0" 
 atk-sys = ">= 0.18.0" 
-<<<<<<< HEAD
->>>>>>> 239fa35
-=======
 cc = "1.1.20"
 
 [profile.dev]
@@ -56,4 +23,3 @@ opt-level = 0
 opt-level = 3
 time = "0.3.36"
 tauri-build = "1.5.5"
->>>>>>> refs/remotes/origin/master
