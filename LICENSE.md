@@ -1,5 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+
+=======
+
+>>>>>>> 239fa35
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 =======
@@ -10,4 +16,5 @@
 >>>>>>> bd563a7 (Chore:Add AUTHORS)
 =======
 
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
