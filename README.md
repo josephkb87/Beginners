@@ -31,7 +31,6 @@ Rust is a challenging choice, but worth to be chosen. It has strong memory-safet
 
 -- Fortran IDE - A [Fortran IDE](../Projects/Fortran IDE/README.md). made with Rust and Bazel.
 
-
 #### [Docs](..docs/)
 
 * [About Me](https://github.com/josephkb87)
