@@ -8,9 +8,7 @@ Great care has been taken to understand that while [Basel](#) and [Other Contrib
 ## Why
 
 Alot of the changes in programming language usage come with the need to learn new languages depending on industry and individuals requirements. This repository serves the purpose of covering the basics for Beginners of Rust.
-Rust is a challenging choice, but worth to be chosen. It has strong memory-safety and type-safety, this gives you no bother about those errors. However, static typing languages often slow our developing speed down in early stage 
-This Rust Beginners repository does not teach programming, nor even to teach Rust Pogramming. 
-Rather, it is intended to serve as a guide to provide a gentle introduction to Rust for someone who has or doesnot have experience with at least one other language, preferably a functional language.
+Rust is a challenging choice, but worth to be chosen. It has strong memory-safety and type-safety, this gives you no bother about those errors. However, static typing languages often slow our developing speed down in early stage . This Rust Beginners repository does not teach programming, nor even to teach Rust Programming.  Rather, it is intended to serve as a guide to provide a gentle introduction to Rust for someone who has or does not have experience with at least one other language, preferably a functional language.
 
 
 ## Rust Beginners includes;
@@ -33,7 +31,6 @@ Rather, it is intended to serve as a guide to provide a gentle introduction to R
 
 -- Fortran IDE - A [Fortran IDE](../Projects/Fortran IDE/README.md). made with Rust and Bazel.
 
-
 #### [Docs](..docs/)
 
 * [About Me](https://github.com/josephkb87)
@@ -41,12 +38,9 @@ Rather, it is intended to serve as a guide to provide a gentle introduction to R
 * [Rust Worked Examples](https://github.com/josephkb87/Beginners/tree/main/RustWorkedExamples/README.md)
 * [Rust Projects](https://github.com/josephkb87/RustBeginners/tree/main/Projects/README.md)
 * [CHANGELOG](../docs/CHANGELOG.md) 
-* [Contribute](../docs/CONTRIBUTING.md)
 * [AUTHORS](../docs/AUTHORS.md)
-* [CHANGELOG](../docs/CHANGELOG.md)
 * [Contribute](../docs/CONTRIBUTING.md)
 * [Pull Requests](../docs/blob/PRs.md)
 * [SECURITY](../docs/SECURITY.md)
 * [Attributions](..docs/Attributions.md)
 * [References](../docs/References.md)
-* [AUTHORS](../docs/AUTHORS.md)
