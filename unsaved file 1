@@ -1,9 +1,0 @@
-Project Name: FortranIDE
-
-App ID: fortranideapp.gnome.Builder
-
-Location :~/repoz/BaselBuilds/projects/Rustprojects/Projects/IDE/FortranIDE
-
-Lamguage ; Rust 
-
-Build System(s) : Meson, Basel
