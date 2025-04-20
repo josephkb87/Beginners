@@ -17,7 +17,7 @@ Rust is a challenging choice, but worth to be chosen. It has strong memory-safet
 
 -- [RustRealWebApp](#)  - A Rust WebApp (A Rust CrossPlatform Web App made with Rust and FastAPI).
 
-#### [Rust Projects](https://github.com/josephkb87/Beginners/tree/main/Projects/README.md);
+#### [Rust Projects](https://github.com/josephkb87/RustProjects);
 
 -- RustWebApp - A [Rust_WASM WebApp CrossPlatform App](../Projects/RustWebApp/README.md) 
 
