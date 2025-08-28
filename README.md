@@ -2,7 +2,7 @@ _Rust Beginners Projects_
 
 * QMLApp - A QT Rust App.
 
-* RustAPI -A RESTful RustAPI.
+* RustAPI -[A RESTful RustAPI](https://github.com/josephkb87/RESTful_RustAPI.)
 
 * RustWebApp - A Rust_WASM WebApp (A Rust CrossPlatform App).
 
@@ -22,6 +22,7 @@ _Documentation_
 * [CodeOfConduct](../docs/CodeOfConduct.md) 
 * [LICENSE](../LICENSE.md)
 * [References](../docs/References.md)
+
 
 
 
